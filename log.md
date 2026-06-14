@@ -46,3 +46,10 @@ Unwrapped the manual ~100-char line breaks across all markdown files so each par
 and callout body is a single line (no mid-sentence newlines in the raw files). Left frontmatter,
 fenced code blocks, headings, list structure, and callout titles untouched. Verified: all wikilinks
 resolve, code fences balanced, frontmatter pairs intact, both callouts preserved.
+
+## [2026-06-08] setup | GitHub-visible static catalog + Action
+Dataview dashboard.md does not run on GitHub (shows raw query code). Added a GitHub-friendly path:
+scripts/build_catalog.py reads page frontmatter and writes wiki/catalog.md (a plain markdown table
+that renders on github.com); .github/workflows/build-catalog.yml rebuilds and commits it on every
+push (with [skip ci] to avoid loops). Kept dashboard.md for live use in Obsidian. Linked catalog
+from index.md and README.md. All links verified.

@@ -6,7 +6,8 @@ maintains the pages, with a citation for every non-obvious claim.
 
 ## Start here
 
-Open [index.md](index.md) for the catalog of pages. The core pages:
+Open [index.md](index.md) for the hand-written guide, or [wiki/catalog.md](wiki/catalog.md) for an
+auto-generated index of every page. The core pages:
 
 - [How GenAI works](wiki/how-genai-works.md): the mechanism, organized as storage, retrieval, and
   interaction.

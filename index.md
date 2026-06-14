@@ -5,7 +5,8 @@ A lean, sourced knowledge base on how generative AI works and what it is good an
 ## Using this wiki
 
 - [[SETUP]]: how to open this folder as an Obsidian vault, and the daily workflow.
-- [[dashboard]]: auto-generated views of every page (needs the Dataview plugin).
+- [[dashboard]]: auto-generated views of every page in Obsidian (needs the Dataview plugin).
+- [[catalog]]: a static index of every page that also renders on GitHub (rebuilt automatically).
 
 ## Core pages (`wiki/`)
 

@@ -1,0 +1,34 @@
+name: build-catalog
+
+on:
+  push:
+    paths:
+      - 'wiki/**'
+      - 'scripts/build_catalog.py'
+      - '.github/workflows/build-catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Build catalog
+        run: python scripts/build_catalog.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain wiki/catalog.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add wiki/catalog.md
+            git commit -m "chore: rebuild catalog [skip ci]"
+            git push
+          else
+            echo "catalog unchanged"
+          fi

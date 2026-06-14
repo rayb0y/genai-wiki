@@ -1,0 +1,16 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian: ignore per-machine workspace state & cache, keep shared settings/plugins
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.cache
+
+# Obsidian trash
+.trash/
+
+# To NOT share Obsidian config at all (plugins, hotkeys, theme), uncomment:
+# .obsidian/

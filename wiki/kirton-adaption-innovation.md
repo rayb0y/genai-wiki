@@ -2,7 +2,7 @@
 title: "Kirton's Adaption-Innovation (A-I) Theory"
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-14
 tags: [kirton, adaption-innovation, cognitive-style, creativity, KAI]
 sources: [kirton-1976, kirton-2003, im-hu-2005]
 ---
@@ -39,7 +39,7 @@ Neither style is right. Organizations need adaptors to keep systems reliable and
 
 ## The KAI inventory and its factors
 
-The Kirton Adaption-Innovation Inventory (KAI) is a 32-item self-report measure that places a person on the continuum ([ResearchGate overview](https://www.researchgate.net/publication/249671196_The_Kirton_Adaption-Innovation_Inventory)). It resolves into three factors:
+The Kirton Adaption-Innovation Inventory (KAI) is a 32-item self-report measure that places a person on the continuum. Scores run from 32 to 160 with a theoretical midpoint of 96, and in general-population samples the mean is about 95 with a standard deviation near 16, so most people fall between roughly 79 and 113. Higher scores are more innovative and lower scores more adaptive, and the inventory's internal reliability (Cronbach's alpha) runs about 0.84 to 0.89 ([KAI Foundation](https://kai.foundation/adaption-innovation-measure-cognitive-style/); [Bobic et al. 1999](https://www.researchgate.net/publication/249671196_The_Kirton_Adaption-Innovation_Inventory)). It resolves into three factors:
 
 1. Sufficiency of Originality (SO): a preference for producing many novel ideas versus a few sound, relevant ones.
 2. Efficiency (E): a preference for thoroughness, precision, and methodical reliability.
@@ -58,4 +58,5 @@ A-I is applied in management, team design, and change leadership. Seeing that re
 - Kirton, M. J. (2003). *Adaption-Innovation: In the Context of Diversity and Change.* Overview via Regent University review. https://www.regent.edu/journal/emerging-leadership-journeys/kirton-adaption-innovation/
 - Im, S. & Hu, M. (2005). *Revisiting the Factor Structure of the Kirton Adaption-Innovation Inventory.* https://journals.sagepub.com/doi/10.2466/pr0.96.2.408-410
 - KAI Foundation. *Adaption-Innovation as a Measure of Cognitive Style.* https://kai.foundation/adaption-innovation-measure-cognitive-style/
+- Bobic, M., Davis, E., Cunningham, R. (1999). *The Kirton Adaption-Innovation Inventory.* Review of Public Personnel Administration. https://www.researchgate.net/publication/249671196_The_Kirton_Adaption-Innovation_Inventory
 - Businessballs. *Kirton's Adaptation–Innovation Theory (KAI).* https://www.businessballs.com/change-management/kirtons-adaptation-innovation-theory/

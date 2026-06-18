@@ -2,7 +2,7 @@
 title: "Getting the Most Out of LLMs: Retrieval, Storage, Coherence"
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-14
 tags: [genai, rag, retrieval, memory, long-context, coherence, practical]
 sources: [lewis-2020, gao-2023-survey, liu-2023-lost-middle, packer-2023-memgpt, asai-2023-selfrag]
 ---
@@ -34,7 +34,7 @@ A model has only frozen weights (durable but fuzzy) and a volatile context windo
 
 Reaching for a huge context window is tempting, but it fails in documented ways:
 
-- Models use information best at the beginning and end of the context and largely ignore the middle, and quality drops as the context grows, even for models built for long context ([Liu et al. 2023](https://arxiv.org/abs/2307.03172)). Stuffing everything in hurts; what you include and where you place it both matter.
+- Models use information best at the beginning and end of the context and largely ignore the middle, and quality drops as the context grows, even for models built for long context. In a 20-document QA test, GPT-3.5 answered about 75% correctly when the answer sat in the first document and about 72% when it was last, but only about 55% when it sat in the middle, and in 20- to 30-document settings accuracy fell below its roughly 56% closed-book baseline, so the extra context actively hurt ([Liu et al. 2023](https://arxiv.org/abs/2307.03172)). Stuffing everything in hurts; what you include and where you place it both matter.
 - RAG and long context are not an either/or choice. Long-context models can win on raw quality when resources are unlimited, but RAG is cheaper and steadier, and curating the right slice often beats dumping everything in ([Li et al. 2025](https://arxiv.org/abs/2501.01880); [In Defense of RAG, 2024](https://arxiv.org/abs/2409.01666)).
 - A working recipe: retrieve and curate the relevant slice, place the most important material at the edges, rerank to keep noise out, and hold continuity in external state (MemGPT-style) and running summaries instead of relying on the window to remember.
 
@@ -65,7 +65,7 @@ A fuller, annotated list for going deeper in each area.
 ### Storage & memory
 
 - Guu et al. (2020), *REALM*, https://arxiv.org/abs/2002.08909. First to learn a retriever inside pretraining, treating retrieval as memory learned end-to-end.
-- Borgeaud et al. (2022), *RETRO*, https://arxiv.org/abs/2112.04426. Chunked cross-attention to a large datastore matched GPT-3-class quality with about 25 times fewer parameters, letting external memory stand in for parameters.
+- Borgeaud et al. (2022), *RETRO*, https://arxiv.org/abs/2112.04426. Chunked cross-attention to a 2-trillion-token datastore matched GPT-3-class quality with about 25 times fewer parameters, letting external memory stand in for parameters.
 - Izacard et al. (2022), *Atlas*, https://arxiv.org/abs/2208.03299. A retrieval-augmented model whose knowledge store can be updated independently of the generator.
 - Wu et al. (2022), *Memorizing Transformers*, https://arxiv.org/abs/2203.08913. A kNN lookup into a memory of past key-value pairs, so the model can memorize new data at inference time.
 - Wang et al. (2023), *LongMem*, https://arxiv.org/abs/2306.07174. A decoupled side-network that caches long history (to about 65k tokens) without memory staleness.

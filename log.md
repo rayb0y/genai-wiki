@@ -53,3 +53,18 @@ scripts/build_catalog.py reads page frontmatter and writes wiki/catalog.md (a pl
 that renders on github.com); .github/workflows/build-catalog.yml rebuilds and commits it on every
 push (with [skip ci] to avoid loops). Kept dashboard.md for live use in Obsidian. Linked catalog
 from index.md and README.md. All links verified.
+
+## [2026-06-14] enrich | Added source-grounded specifics (verified)
+Per Amal ("add direct detail from the sources; only use the sources, don't make things up"), added
+concrete figures, each verified against the primary source this session:
+- how-genai-works: attention formula softmax(QK^T/sqrt(d_k))V; transformer base config (6+6 layers,
+  d_model 512, 8 heads, 28.4/41.8 BLEU); GPT-3 (175B, 96 layers, 12288, 96 heads, 2048 ctx, ~300B
+  tokens); RAG (DPR+BART, 21M Wikipedia passages, top-5); InstructGPT (13k SFT, 33k RM, 1.3B>175B);
+  Kaplan (200+ models, 7 orders); Chinchilla (20 tok/param, 70B/1.4T beat Gopher 280B); DDPM (IS 9.46,
+  FID 3.17 CIFAR-10). Added kaplan/hoffmann/rombach sources. Dropped an unverified "1000 steps" figure.
+- what-genai: USMLE ~86.7% vs ~53% GPT-3.5 and ~60% pass; UBE ~297/400; Martinez breakdown (~68th
+  overall vs 90th, ~48th/~15th vs passers); Blocksworld ~1/3 -> near zero on Mystery, GPT-3.5 ~0.7%;
+  Schaeffer >92%; Ji intrinsic/extrinsic. Added LLM-Modulo (2402.01817) source.
+- getting-most: Lost-in-the-middle 75/72/55% + <56% closed-book; RETRO 2T-token datastore.
+- kirton: KAI scoring (range 32-160, midpoint 96, mean ~95, SD ~16, alpha 0.84-0.89). Added Bobic 1999.
+Bumped updated dates; regenerated catalog; all links resolve; no em-dashes introduced.

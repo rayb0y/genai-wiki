@@ -1,0 +1,811 @@
+Okay, specifically, I'm trying to understand whether AI can help a team when they are stuck.
+All right, so maybe by asking the right question at the right moment, like a good facilitator
+would.
+So I'm talking to people who have been through structured innovation work and people who
+work in it professionally.
+So that's, I think, even professionally, you have worked in innovation.
+So I have questions, but I'll follow what's interesting.
+There are no right answers.
+I'm trying to understand the real experience.
+All right, so any questions before we start?
+Nope.
+Okay.
+Awesome.
+Let's begin then.
+Can you tell me a bit about the kind of innovation work you have been involved in?
+For example, what kind of teams?
+What kind of projects?
+Was it early stage, exploratory, or more defined, et cetera?
+So I've had a mix of projects and a mix of teams.
+Actually, not so much a mix of teams.
+It's generally in the same buckets.
+There'll be people doing design, either that's visual or UX.
+There'll be people doing research.
+There'll be, in my job, I had like a managerial position that was overseeing things and providing
+some direction.
+And then there was like a client or, you know, the client side had some questions that they
+would answer.
+So they had some direction coming in and had some clarifications coming in, almost like
+a resource kind of.
+And then I had design and research people and specifically visual design people.
+And the projects that I've done have ranged from quite open-ended where the client just
+had a certain goal and they didn't know how to achieve it.
+So then my managers, my leads would come up with a research plan to figure out, to figure
+out some questions that need answering.
+And then we would use the research that they did to structure the rest of the project.
+I was not a part of the research team.
+I used to take the insights from research or I used to take data from research, structure
+it into insights and then use it.
+And I used to sit in on some research work but not actually conduct it myself, just help
+them out whenever they needed it.
+Some projects are very defined.
+They have particular flows or goals or they have like the technology that they're capable
+of creating can achieve certain things and they just need the design workflows and user
+experience to match what the technology is capable of creating.
+So those were typically quite rigid projects.
+There was not a lot of leeway for innovation because you already had a different type of
+technology and they didn't want their customers to have too much of a mental model mismatch
+or a sway out of what the existing thing was.
+And sometimes you would have to push on that and do a lot of research validation to prove
+that actually their original thing is not very helpful in terms of mental models and
+there are better mental models that you can follow.
+So not every change is a crazy new change to your customer.
+Sometimes the world has evolved around your product and you've not caught up yet.
+That was particular with like some of the IT infrastructure products that we had because
+it was B2B very tight pipeline type of stuff.
+So they didn't like to deviate and you'd have to kind of prove to them that you can do
+validation and your customers can adapt certain things.
+Yeah and in those kinds of projects like little more rigid projects the clients team would be more
+involved in terms of providing a resource to help us understand the kind of technology
+they've created or to help us understand why it needs to be so rigid in the first place
+because they were the experts in their product and we were an agency.
+So you can't as an agency you can do your initial research but you can't have the same amount
+of depth of knowledge as like a nine year experience product person that's in-house
+for that product.
+So we would take a lot of insight from them and consider them as experts for the more
+rigid projects.
+Yeah sure might be not related but having to like validate it and validate your research
+and like trying to when it's more rigid and trying to make changes how was that process
+like in short or was it like taxing etc.
+We would have to do that validation whether the project is rigid or even not so rigid
+because it's difficult to convince a client especially with like innovative stuff and
+not like cookie cutter stuff.
+It's difficult to convince a client that this is where they should put their money
+because it's a big investment for them.
+So with the more rigid flows we used to test smaller smaller pieces and smaller chunks
+but with the more open projects we used to test it as concepts.
+So we have like concept one, concept two, concept three but not so granular like each little
+small part of the flow.
+And one thing that's difficult is convincing them to pay for that validation because again
+they're contract based engagements with an agency right.
+So if you're adding something like validation then they have my managers would have to rewrite
+the contract and put this in as another like for example my my lead would say that okay
+if they want this direction then it needs to be validated as part of that direction
+and that will add two weeks to the overall contract.
+Then my manager goes to the client and says we'll start work but I need you to add it
+into the contract because it'll be an extra this much and teams need to get paid for that
+extra that much.
+So those cases used to be a bit difficult but I was not a part of obviously contract related
+stuff so they would handle that.
+Otherwise we had one project where they were really really into validation testing and
+all of that and they were like just throw as many concepts as you can and see what sticks
+basically.
+So those guys didn't require much convincing but it's mostly around the money because if
+you keep having to introduce an innovative concept then you have to validate the concept
+and you have to pay people to validate the concept.
+Yeah and then sometimes I remember for one of my projects I had convinced my manager and
+he used my same argument to convince the client basically by saying so we had to have a
+differentiator and there was a certain product feature that we were testing out my lead and
+I had come up with a bunch of concepts and stuff and the way that we convinced them to
+take the more innovative direction is that we took some use cases of companies not being
+innovative in their industry and failing because you have to have a differentiator otherwise
+everything is easily copyable like in terms of like price or convenience or those usual
+customer benefits.
+So that one they were happy enough to accept what we had suggested just because of background
+research without having to add extra stuff.
+So when you are working on an interesting concept or you think that this is a really good
+direction to go in but you don't know if the client is going to accept it or not.
+How has that affected the work you have done or like the fact that maybe this might not
+really end up as the main thing.
+How has that affected your teamwork or has it affected it?
+Yeah it's always pretty annoying because sometimes people will come up with something that is actually
+quite impressive but for reasons of money or time and development or just what they are
+able to produce currently it's not always it's implementable but for them in the moment
+it's not the wiser choice so it's not even like it's not doable but it might just be
+some quirk of like oh my developer is going on leave for two months so I don't want to
+implement this now or something like that.
+But also there are ways that we have strong armed clients into doing the concepts that
+we think are going to be better for them so if you give them several options or even I
+used to do this with my manager like I used to give him multiple options and flesh out
+the one that I thought was best more so immediately as a leadership or as like a client when you
+see these options in front of you and one is fleshed out better it just answers more questions
+in your head you are more likely to lean towards that so I would not put equal effort into
+say three concepts not all three concepts I would put more effort into the one that I
+thought was better and I would try to like predict what kind of questions my first level
+was my lead second level was the manager third level was client so I try to predict what
+kind of questions each of these people would have my lead would have very granular questions
+about like how are you planning on doing this interaction or that interaction manager would
+have slightly broader questions about what what makes it like a good choice and then
+client would have even broader questions about why this over something that they've seen
+in another company and they think it's profitable in that sense like business decision wise
+and you can kind of use the same concept and structure it differently for each of these
+three people to answer the questions they are in their head because if I'm saying no to
+something they just have questions that are not answered.
+At least that's how I see it but then some battles you have to give up like for example
+we had like app plus website plus like responsible whatever we put a lot of focus and my primary
+focus was the app so I made that my main thing but for the website the other designer who
+was on it was like little dealer he was basically just adapting exactly what I had made for the
+app without considering that some interactions are different on web or like you have different
+capabilities on app versus on web like he was just basically copying my same shit and
+making it responsive but I'm letting that go like that's not my you know so.
+Yeah yeah and so there were there were not a lot of rejections is what you're saying
+or like I don't know how you call it rejections because even as the ideas are developing there
+are a lot of there's a lot of communication at least with my team there was a lot of
+communication so sometimes even if my lead didn't think something was a good idea not
+often but once or twice I went straight to the manager and phrased it as like a very casual
+conversation type of thing where I would get some things up to oopsie but but basically
+so even when you're working in class right you'll have sketches you'll have ideas you'll
+have like there's different layers that build up the concept as a whole so at each of those
+layers there are plenty of rejections but it's like very light work rejections like you
+expect like 80% of that stuff to disappear as you're building out final ideas.
+How do you how do you deal with that that the work you're doing might not be anything
+or I think I try to predict when the person is not going to be receptive to something.
+So I with me because it was my job and I was working with these people frequently I could predict
+that a little bit one of the projects it was just me and it was a very small team and she
+had my lead had a ton of work to do so I was dealing directly with the clients UX people
+and that it was like this old white guy who had a bit of a complex about a bunch of like
+20 somethings doing the design so he would just reject things but like literally no reason
+and my lead and I had to sit and like figure him out like figure out where his rejection
+is coming from and then see do we need to talk to a different person did we need to talk
+to a VP instead of this UX guy did we need to just like pacify this UX guy while actual
+work is going on because some rejections make sense but after a point if it's not making
+sense then you would just have to leave the other person and see what their deal is.
+So how does that affect morale? Oh my God it was horrible but it was like team bonding
+because I never worked with this lead before and she at that time she was in her late 20s
+so she was quite young but she had been working with this company since she was like 17 years
+old so in terms of experience she had like 10 years more than 10 years of experience
+but she looked young because she was just in her late 20s so even in front of clients
+and stuff she would have trouble establishing like some sort of authority and especially
+with that UX guy because he was like in his 40s or 50s or something and he saw her as a
+kid which honestly he comes with his own experience so even that like you have to give some value
+to but yeah so we actually sat together and I came into the office one day and she was
+already there early early because I came in early and she was there before me and she
+was the only one in the office and she was holding her head and she was like yeah look
+at the message he sent and I was like oh no what happened and I'd never seen her freaked
+out like she's always very very calm she's a very like if something happens she's like
+okay we can do this okay we can do that okay we can sit for a minute and think about it
+like I've now seen her holding her head like that um so then I feel like that trust between
+us because I was able to like like talk with her and we were able to like figure some stuff
+out together and we had this common common villain almost it was helpful
+Interesting yeah okay so second question actually that's insane that was only one question
+okay this is really nice actually I'm getting a lot anyway um okay think about the best
+innovation team you've been a part of and what made it work so I don't know again how
+I would define what an innovation team is I think everyone's trying to like when you're
+on any of these types of projects you're trying to come up with something new
+um oops journey is running just gonna let that be good
+it might be something though she's gone right yeah she's left just take it and come back
+yeah yeah I'll pause okay um so yeah what do you think um is the best team you've been
+a part of you can talk about innovation team if you want but no it's fine but like what's
+the best thing you've been a part of and what made it work if you need more things I can
+tell you ask you more I think every time I try to I don't know best because I'm really bad
+at picking like one highlighted best thing for any category but whenever I think back
+to teams that I've enjoyed being a part of it's always given me like some sort of bouncing
+board like we've been on the same wavelength about something or the other so it doesn't
+have to be like saying wavelength about the product you can have disagreements but something
+or the other has clicked so like I feel like for example with the previous project that
+I was saying my lead and I trauma bonded over that one guy so even though I'd never worked
+with her before we clicked on that and so decisions started to flow a little better like I trusted
+her on something she trusted me on some things um otherwise my other projects also my other
+lead was a different lead it took a long while to like earn that trust but I think once that
+happened it was pretty decent but actually no never mind she was quite micro manager even
+um okay but even so for example the hacker startup group that I was in Agilo I thought
+that was a good dream in terms of we got things done really quickly so I didn't know specifically
+how the technology worked I didn't specifically like agree with how the product was running
+but because it was a short-term team like you know give some lose some kind of but they
+took my input seriously and listen to things that I had to say and I took their input seriously
+and listen to what they had to say so for example they did a really good job where um with public
+speaking for me so I was able to very quickly do those pitches in front of um you know like
+for the presentations without looking at notes and like without having a script because I'm
+not good at memorizing a script and I thought they were really important in being like okay
+just trust yourself you know the points just like hit hit hit so over there product was
+not what click um working was not what click because they were all like engineer and the
+all that they were not like product product people they were builders um but this click
+this like oh I have some things you can help me with you have some things I can help you
+with what yeah that does but what do you think makes the click happen I think yeah there
+just needs to be some sort of give and take maybe like because teams where I haven't
+enjoyed working it's like I don't I don't know maybe you just need to like respect their
+contribution and they need to respect your contribution so if you feel like one of you
+is doing too much that's not going to click if you feel like you don't respect the work
+that they do or like how they contribute like maybe in how they talk or something that doesn't
+like very well so I don't yeah maybe you just have to respect their contribution
+interesting so respect a contribution is interesting towards the shared product I think
+I feel like there is is there like a shared understanding of the product or like other
+project um which needs to be built up um maybe not of the product specifically but some common
+goal that you can celebrate as a win um so if you have an unreasonable client then winning
+over that client becomes that goal that you're both working towards um and that's going to
+reflect in the product but it's not like the primary goal I guess like you have to have
+some something that's tying it in so for hacker startup it was like winning hacker startup
+for the client it was winning over that one unreasonable guy for me versus my other junior
+designers it was like winning against the manager so having some common goal I guess
+okay that's good yeah okay I'm going to ask the question about what when you when was
+the last time you your team got stuck on something um or you had a bad experience and was there
+what is it what did it look like in the room when you got stuck or was there a specific
+moment um what happened
+I have had
+Oh is the door open?
+Wait one second sorry
+Sorry
+So the bad experience that I had with the project group it's not the first bad experience I think
+um there have been groups before where the beginnings are a little bumpy because you don't know
+um everyone's like working styles you don't know how it's going to get along
+um but yeah I think typically it's worked out but I also had a bad experience when team members
+didn't really contribute or didn't have like the same common goals um so I think yeah
+Go ahead sorry
+Uh pretty much just that I think there was just no um common goal or like common thing to work toward
+because everyone had different objectives and different goals with that team
+Do you think that's because of the team the people in the team uh was it the project was it specifically
+something at the in the beginning which caused that
+I think it's a combination of factors um but even before we had started the project like when we got that
+the client and everything on that piece of paper and we had that first meeting of like oh you guys
+my teammates great um that time only there were two people who said yeah I don't think I'm gonna put like
+too much into this like it's just a thing that's happening so already there was a bit of a like
+heavy mismatch in what you're trying to achieve from this uh and then even as it progressed
+there was nothing to unify like there was no the project wasn't a unifying goal because no one was interested in
+the topic um doing well wasn't a unified goal um getting like we didn't have like a cool idea that everyone
+was excited about also so it wasn't just like the client or like the initial topic we didn't
+there was like nothing that anybody had as like a common oh we all want this
+so I think if that was their things might have been a little easier but that's a hypothesis
+because I don't know how much easier or not easier um it would have been at all
+but that was a bad team
+if you could change something about about the team what would you change
+the people the people
+yeah yeah I wouldn't straight up change the people
+hmm
+okay
+so um
+that's interesting let's actually it feels very cut and dry I think the people were
+maybe um talk about other teams
+yeah um once again
+um
+so um
+okay so even if people were not interested um where do you think like people might not be
+interested in a project or it's fine right but people still work right
+people still work yeah yeah so what do you think went wrong over there
+I mean when you're employed you have the fear that you will be not employed if you don't at least
+produce something
+but otherwise like in scenarios like this so that's what I'm saying right like even if you're not interested in the work
+there could for me personally there could be like something or the other that's driving that
+so um even with my internship for example not particularly interested in the topic of the project
+um or in the product itself but I'm trying to find ways to make it interesting because
+my objective is to a figure something out like learn something from this and then be not have a wasteful summer
+but those are like personal objectives um and then with anything I think there needs to be some sort of goal
+otherwise you won't end up really like doing much for it
+and
+yeah I think when you're employed you kind of have to give a little bit of a fuck
+okay let's talk about a different team okay um so let's talk about a team where you got stuck
+when things were going nice maybe things were going okay you got stuck
+things were bad for a while and then things improved okay um okay and
+tell me a bit about that you know like just like a team where you have faced that if you're faced it
+um yes so I did have
+with the wait let me think what I want to talk about
+okay um when things went bad and then eventually it ended up all located
+yeah and that's in terms of like the team or the outcomes
+whatever it was whatever you think
+yeah
+and that's in terms of like the team or the outcomes
+whatever it was whatever you think
+whatever you think
+so the one project that we had um where that person
+I don't know if that's really
+okay
+so the project we had where they had their design like UX guy was that older guy
+um that I don't think we ended up with good outcomes
+like there was a lot of back and forth there was a lot of things that were not going well
+because he was the our primary contact was with the VP of that product
+um and he the VP took a step back even though he's the one who employed us and he had the vision he saw our work thought our stuff was good
+like he had faith and um had respect for the contribution that my agency was doing
+but he stepped back so even though he's the one who hired brought the objective brought the teams brought the vision everything
+he stepped back and he put this other guy in as like a primary point of contact for us
+and then we had to all of our concepts everything was going through this person who just didn't like us
+um and that became really difficult because the outcomes of that project were not good
+and then even when you're dealing with the manager our manager saying that can we get the VP back is there any way to like skirt around this
+he was like don't ruin like a client relationship and all of that like just give him what he wants and forget like sometimes it's uh
+like pick your battles type of thing just give him what he wants and all
+so I think I don't know if the manager had this conversation with the VP or not he didn't tell us
+um but we were hoping he would have a conversation and say that you know things are going around in circles can we just come to you with some stuff
+I don't know if that conversation was had or not but the outcome for that project was kind of shit
+I don't have it in my portfolio I don't talk about it for anything even though it was like a um like a pretty heavy project
+um but in terms of teamwork this girl has touched the bus again
+in terms of teamwork it was like it became a lot better because I've never worked with this lead
+before I was like quite intimidated by her she was not particularly known to be like friendly
+um but we started working really well as a team and then even the other visual designer who was on it was in sync
+um if I had anything that I thought the manager was like not going to like she put my back on it
+so teamwork is great, outcome shite
+hmm
+because the clients I was not didn't have that same like respect for contribution thing I guess
+hmm
+um
+okay maybe think about the time when you got stuck and then you didn't you were okay
+all right like uh like not maybe something where it's more of an internal thing and not like something which you can control
+uh or it was smooth sailing it was fine clients or all right maybe uh but then you got stuck at a certain thing and things started going bad
+and then has this happened where like things improved for a certain reason
+but in again in terms of what like in terms of teamwork in terms of the outcomes the end like
+um we talked about teamwork let's talk about outcomes man
+okay um got stuck and then eventually had good outcomes but still in a team context
+like not individual work I'm assuming
+what do you mean by individual work
+like just me having to deal with something that I had to do
+we can go over both I have time
+um
+okay cool so when I first started working with one of the leads on my project like I said she's kind of like the first one is kind of micromanage
+um and people did not like her when I got assigned to her when I got switched out of my other lead because he was leaving the company
+so um I got switched off of his project onto this woman and um she people did not like they found a micromanaging they found her like
+not rude but like kind of blunt and like little too much
+um and I also found her the same I thought she was doing like way too much she
+um used to have me like log the tasks I was doing very micromanage wanted to meet very often
+it just felt like I had someone like breathing right here um and that was not very pleasant and I did not like working with her
+but despite all of that she used she was not a good teacher like she was not she used to try really hard though
+so she'll try really hard to communicate but she just um she was not the kind of person where teaching comes naturally to her
+she was not able to put her thoughts into different words like if you don't understand crack one of what she's saying
+she's not able to rephrase it in different ways or like actually have people absorb what she's saying
+but she'll try really hard to do it so even though she was a difficult person to have on a team
+in terms of outcomes we produced good outcomes because she is like kind of she used to put in that effort to actually go over stuff
+so as long as I take initiative and I'm like I'm setting up a call with you she was helpful in terms of giving advice and feedback and things like that
+you just had to turn a little bit of a blind eye to the way that she gives that feedback um because she wasn't very like polite about it or anything
+she'd be like why is this like this um and then eventually I think because I also turned a little deaf pure
+and just looked at what she was saying in terms of feedback she completely let me do what I wanted
+so everybody else on the team was still micromanaged and I was not and no longer had to log tasks
+I no longer had to take frequent meetings with her she was like yeah if you think that's okay then pass it along like it's fine
+which was crazy because there were people who had been at the company longer than I had who was still being micromanaged by
+I thought it's just because I got promoted or something it was not she was still micromanaging other people
+hmm so eventually it all worked out but yeah she was not I would say an easy team member to have
+hmm what about from a team perspective
+um
+I don't think I really had any major hurdles like if it has been a major hurdle it's remained a major hurdle
+or if I just had some like doubts and anxieties then that's cleared up as it's moved forward
+so that's just like uncertainty of like not knowing where like a common thread or like a common goal or something is going to come from
+hmm
+I don't know I can't think of a other time thing wise where things have gone bad and then really turned around
+that's alright
+yeah
+okay let's talk about shared knowledge in a team
+so how did you guys keep track of what you knew like your research decisions reasoning
+this is a huge problem from what I understand for every sort of company especially like the larger the company the worse it gets
+typically you'll have large organizations with very set playbooks for how to do knowledge transfers and how you need to like document your stuff
+um my company also had
+they had been burned in the past because of this because of people leaving and high donors and stuff so they had set up a couple of things
+to be able to document knowledge and then have knowledge transfer
+like things so once a month we used to have sessions between all of the designers
+and one person would be assigned as like a lead for a workshop almost and that person from the team had to submit like almost a not a proposal really
+but have a topic of something that they were going to be sharing knowledge about with the rest of the designers
+so one of the visual designers was really good at Figma and was teaching like okay these are like hacks shortcuts things like that
+um this is usually someone who's not on a hectic project by the way so if you have a hectic project you can like switch with someone
+we had a calendar and all um like with each person and you have to select your dates and things like that
+um I had done on dark patterns so I had to provide some kind of instructional thing and then have some sort of like Q&A or like back and forth engagement
+um so that's how they used to work with that but that's on a broader sense within a team like within a project
+um they would have one like bribe link or something where you have certain like truths that are there and then you have like other stuff
+so whenever you confirm certain information or this has become part of the project now it goes into that initial document
+I forgot what it's called they had a name for that document but like all of your truths gets documented there
+so if someone joins the project halfway through which used to happen really often like people used to switch in and out of projects
+um then they were given that drive link they had to go through that like truth document
+um and if you needed any other clarification you could set up calls with like your other teammates and catch up on stuff
+but that truth document would have like all of your current decisions so how long is the engagement
+um what's the timeline look like what is their primary objective what all questions did they come in with
+um who are the people in charge of this so like who's your manager who's your lead like what's the hierarchy that you have to go to if you need it
+um and then as decisions were made they would put it there so like suppose you decided on concept this this or this
+then you had that concept and it would be linked to the file where that concept is so whether that's like um a google sheet
+or it's a figma link or it's whatever you had the decision and linked to whatever that file was so that's how they used to do it
+that's that's good and were you was that a good system do you think
+uh it was a fairly decent system but some people had some specialized skills so for example some people had worked with like um
+a lot of these IT products a lot so some things that I didn't understand because it's kind of technical I'm not going to get from that document
+um and research in myself is going to take really long so then um someone would tell me that that person had a similar project
+go talk to them like a little bit and then you could just set up some time and say like hi can you help me I understand this or whatever
+but for the most part it worked pretty well because people used to dip in and out a lot it was like I have a visual designer for three weeks
+then my visual designer is going to switch on to a different project because they need more hands on visual
+or like research is going to be on here for two weeks and then research is going to go and then research will come back during validation so there was a lot of in and out
+yeah it's really good um
+so you were saying there was a problem with sometimes there was a problem because sometimes the truth or the documentation was too technical for you
+yeah like you just wouldn't understand it or something so you don't even have access to if I'm a junior designer some of the artifacts are like business plans and shit I don't have access to that
+that's my manager product like artifact so um then you just needed to have like some conversations with people be like hi I don't have access to this and they either give you access
+they'll be like I'll just tell you because like this is not in your domain stuff like that
+do you think um okay this is very interesting because this is something I've been playing with in my head regarding this project do you think having an LLM on the truth document trained on the truth document would be helpful to understand stuff
+maybe I think so I think like you'd have to figure out like access and permissions for each person but that would possibly be quite helpful but then there's also some stuff which uh
+I don't know how much like it's not a heavy thing to get acquainted with that document because everything's in one place right it's like a indexed thing so it doesn't take that long also to get acquainted
+so effort to you know setting this up I don't know how valuable it is to just have the document versus go into AI setup for everyone permissions upload all the context in our lab
+I don't know it would be helpful but like weighing it out
+yeah thanks um thanks for saying that because it doesn't matter um I'll tell you after this is done
+so next question when the team disagreed
+actually it's a previous question
+where it would be super helpful is because the research team specifically would have a lot of information obviously
+um and I think we would have to keep hunting for whatever the latest file is in research
+so they would have a lot of because the way that researchers conduct it is they have so many data points and then they keep clarifying clarifying clarifying
+and we would have to be like shit is this a data document for them or is this like a final clarified document like which is legible for us
+so I think there it would be super useful because you can ask questions that are quite granular
+and me as the intern they would send me to hunt through the research files and find whatever particular thing they needed
+but yeah
+okay that's really helpful
+yeah
+alright um next question
+um when your team disagreed how do you how do you resolve that disagreement
+um I think typically you find some sort of halfway point like I want to do this you want to do that
+let's give and take and barter a little bit and see what compromises we can make
+um or sometimes if I feel like okay you seem way more convinced about this than I am
+you take up this chunk entirely and you give me some other chunks to take up and we'll just stay out of each other's way
+um
+or like
+how else I think sometimes like I said in question one um I can predict with people that I've worked with before
+um some level of where their questions are going to come from or where their hesitations are going to come from so
+then if I feel it's going to be a disagreement between the concept I think should go forward versus the concept someone else should
+things should go forward I'll try to come up with some merging of those concepts so that they're still a little happy
+or I will try to come with proper rebuttal like before even starting before even pitching it
+to answer these questions without sounding like defensive like I'll try to
+figure out why they would have a problem with the concept and see if I can fix those things in my concept before I go there in the first place
+hmm
+or if I feel like they're receptive then we can have this as a conversation also
+but um with senior lead don't waste their time like that if it's a pure you can have it as a conversation if it's like presenting to someone
+um then I would do this preemptively and then
+so this is about like
+uh the disagreement okay so let's
+this disagreements usually happen about the work
+or is it about like facts or interpretations
+or the values
+um so that micromanaging
+lead used to disagree with a lot of people about a lot of things she wanted
+it her way um and people used to find it
+really really taxing to talk to her because
+she was like singular direction almost
+but she used to tell me if you have
+direct proof to tie back to your argument then okay fine like I'm defeated
+you have a source point so whenever I used to go
+to her with things and then this was helpful like even for the future that's what I'm saying
+she was actually even though she was not pleasant
+to work with the strategies that I had to do for
+her are really helpful so if I had for example
+a screen it was not always a screen but for example a screen I would say this thing
+tied back to this source or this thing came from
+this interview and that's why I'm doing it so then she doesn't have an argument of being like
+um that seems useless or like that's not I don't think that's gonna have an
+impact because I'm like I know that's gonna have an impact I have a user quote
+hmm
+so not on facts because I used to try to bring in as many
+facts as possible sometimes direction you could just agree
+to disagree that's also a thing hmm like I think this looks
+good you think that looks good cool we can like
+at work there's always like a higher up like a higher person
+so we can like leave it to them as an option or you can just see whoever has like a bigger
+stake in it as well
+like a bigger stake in that decision specifically and then just leave it to
+them like give it up to them
+like for example if I have an opinion on research
+but somebody else is been doing the research
+more for a project or like has a higher stake and like okay fine I'll defer that
+like that's fine hmm
+okay yeah
+so
+okay next question
+where did the real thinking happen uh did it happen during the meetings
+or was it later
+or I feel like I do my
+best thinking talking to somebody when I have like a sound
+board to bounce ideas off of
+but a lot of times it's not possible to do a lot of real thinking either because of the mental
+state you're in you need to like have a certain mindset or
+you just have a deadline so
+I think sometimes these like processes are helpful
+take two let's try hey that's so cute
+I know this is an expert for the finalist that's super cute
+that's cool
+that's sad
+okay yeah so where did the real thinking happen you were talking about
+bouncing board
+yeah especially when I don't know what direction to go in or what to do I feel like
+I need to think out loud and then hearing myself talk or hearing somebody else
+have a different opinion on it is super helpful for me
+because it just restructures how I'm thinking I feel like sometimes I tend to
+go in a circle with things so hearing somebody else talk about it
+or like talking to someone about it is helpful to pull out of that
+um but sometimes you don't
+have that like you don't have the other person you don't have whatever
+that is um in which case
+I think
+there are some methods that are helpful
+um like yeah like again sometimes I get stuck in thinking
+too much and then the opposite is true where I have to just put something
+just start somewhere um and then as I'm
+doing that I will only eliminate and figure out
+where to go and what makes more sense
+so I don't know where the actual thinking
+sometimes it's in my own head sometimes I really like having a team
+sometimes it's a combo of both
+yeah
+okay that's good that's really good um
+okay let's talk about how things
+were before yeah
+yeah sure
+sorry you sound exasperated no no no it's fine
+okay um
+my office used to believe in that thing that like your best ideas come and you're not thinking about it
+so they used to have like jenga and monopoly and stuff in the office
+and people used to be encouraged to
+I mean under previous leadership people used to be encouraged to like play those
+board games and stuff to de-stress especially for big meetings instead of like
+using your client deck you go and play a game and like bring your notes down
+um so that was their strategy on it I think it was
+helpful as well but yeah that's pretty good actually thank you
+um all right let's talk about
+AI in the work experience in teams
+especially and yes I
+want you to maybe explain to me
+the differences between working with AI right now and working on
+things before what has changed
+what has what is better what is worse
+like that
+I think AI makes it really easy to absorb a lot
+of information in like a shorter amount of time because you
+can feed documents in and then ask questions about stuff that
+normally you would have to like skim through the document to figure out what's relevant to you
+and that's a bit taxing so if AI can skim documents for
+you that just becomes a lot easier automatically um I used
+AI like literally like chat GPT
+on the last project before I quit for the same reason because they had
+it was a technical product it was a heavy product I had no
+clue what was going on but some parts were relevant to me not even everything
+um and then my
+somebody either on the client team or on our design agency team only
+someone had said that in their published doc book
+like you know these heavy products have like um published
+documentation read so they said just look at this section this this
+and this which was again some like hundred pages um
+instead I would just go to chat GPT say a reference only this doc book and give me the answer
+a lot faster um and a human being
+can't necessarily do that but for
+some stuff it's obviously
+not that helpful like anything to do with the visual was not
+helpful um or you just ask it questions and it doesn't know what to answer
+and it just like says things um
+what
+else
+I think it can be quite annoying when people use
+AI and don't verify it so then they just
+end up like shortcutting all of their work without actually
+um doing any work
+and then for someone that's invested in the project or like
+that needs to work based off of what they worked on that's really
+that's a very shaky foundation like if you haven't verified what AI is telling you
+and you're giving it to someone and they have to build a base on that foundation
+um then that doesn't work out very well like
+it kind of crumbles so
+yeah and I did face that like if AI was fudging numbers
+or if it was pulling up like the wrong stuff and then you've built your concepts
+on top of that thinking it was good information but it's
+not actually a stable foundation so whatever you've built on top of it
+has now suddenly become shaky after everything that you invested
+hmm
+yeah
+okay
+okay
+okay um do you think
+there should be
+can you like describe in
+specifically in your projects can you describe a time
+when you think AI should 100% be in the room
+and like people are using it and
+when it definitely should not be
+um should be in the room
+I think when you need
+to like you need a resource
+so you need it to like skim through resources and give you quick answers
+um I don't know at what point that would be
+maybe it's like at the initial stages when you join the project and so on
+has done some work before you maybe it's when you're ideating what you need like
+um hey confirm this for me that
+I'm thinking correctly and I'm not misremembering something and then you ask the AI
+and it goes and it looks at your your documents so that
+it's got some verified structure like that that is true
+it's not sourcing the internet and making something up um and then it just confirms
+to you like yeah this user actually did say this or like
+no the quote was something else you're misremembering so then
+like for you know quick resource I think it should
+be in the room and it's pretty good
+definitely not in the room
+I don't know about this yet but I feel like
+AI used to validate your
+products is always going to
+shift towards the side of praising you
+so I feel like that's maybe not the
+best thing to do or the best idea to have right now like I think
+you should validate with like traditional methods whether
+that's validating a market or validating a product with users
+or anything like that because I think AI is going to
+mostly say good things and that's not the point of validation
+that's interesting you are talking about validation
+and verification as well before where you like if there's
+AI you need to verify
+okay I actually
+wanted to ask you a question um when you were talking about
+teams sorry um have you ever
+had like have you ever had
+like a team facilitator that this could be a manager
+this could be a person in the team who just takes up the role
+and how helpful or not
+helpful is that or how does it affect the team
+and has it affected it in a good way bad way
+anything like that on facilitators
+I think it's good to have a facilitator
+but the onki guy
+like sends quite a few messages on the teams channel
+and he also wants to meet pretty frequently
+but for the kind of product that is which is AI and
+like voice based stuff and he wants to like do
+you know with linguistics and all of that I think it's a
+complicated enough space that I don't mind that he wants to check
+so frequently because otherwise I think I would be a little bit
+lost or I would be a little I would have anxiety about
+the direction to go in and the facilitator him doing this like
+takes away some of that anxiety because he has a direction or like not even
+a direction but he's just like
+if it if we're not able to
+settle on a direction or go in a particular pathway because he's just taking input
+then he'll like bring it back on course
+which is really helpful
+with some stuff
+I guess if a facilitator is being really
+rigid about the direction then that's not so helpful
+like set on some things
+so maybe it just depends on the type of facilitator
+but I have no problem like even just managing myself and then reaching out to people
+to figure out like okay what do you think we should do
+so do you take up that
+role sometimes
+yeah but not always I feel like if either nobody else is doing it then I would
+take it up or if I feel like
+I don't know if I just want to get something done and I feel like
+it's going in loops then yeah
+okay that's really good
+let's talk about innovation frameworks have you used any
+innovation frameworks in the past
+I guess what would that be
+IMPD
+design thinking
+lean on to leadership
+constantly and do you think they are
+good do you think they show up in practice
+do you think they work
+yeah I would say it definitely does
+maybe the thing that
+is troubling for myself is that I don't always remember
+like this framework is best suited
+for this situation so
+sometimes I have to look through older projects of mine
+and be like okay what did we do the last time that a similar thing like this happened
+and I'm like oh yeah we used this framework or we did this kind of
+like crazy eighths or like whatever but I have totally forgotten
+that that's the framework that we used it's just
+that's just on me also but I think even in general
+and then maybe AI is helpful for this because I was noticing the other day that
+if I asked it a question of should I choose this versus this
+it gives you pros and cons of each thing and then it says
+what else like how else should you make your decision and then it will say it'll have
+like two or three questions there so
+I don't know how good it is at learning the framework because
+I don't think you should be able to just ask AI and have it give you a framework
+I don't know how that would work in terms of learning it
+but I think it's good to go back and say like
+okay I'm in this kind of situation and
+I can't identify what's the best
+tool in my bed to use right now for this problem
+I'm thinking internet it has some prioritized
+setup and it might not even say like crazy eight or design
+thinking but if you know that method then you can see the
+answer and identify key okay it's actually
+going along the lines of this like its recommendation is to make lots of
+things and narrow down or like go really broad and then zoom in then in your
+head you're like okay that is double diamond actually so
+maybe something like that okay that's really good actually
+you actually solved answer two or three of my questions in one
+answer I'm really happy okay let's
+move on I have so many questions this is insane if you could
+design an AI tool for innovation teams what would it do
+or just your teams your projects anything you've worked on
+I think
+I've had the most problem and this could be a magic
+yeah I'm thinking magic would be not like within
+current capability but I think an innovation tool where
+I don't have to like hunt around for information like
+if I'm conceptualizing something and I need to make sure that
+my data sources are correct for the concept I'm building
+I don't want to hunt around different sources and lose my train of thought
+AI is super helpful to just confirm with me that
+oh yeah this direction you're taking comes from three data sources yeah
+or even something that
+with teams right
+maybe just some like coordination based stuff
+so sometimes people might also
+hold back because they're not sure of the team dynamic
+or like how bossy or whatever they might be sounding
+so when you have a hierarchical structure your manager can be a
+boss and not care but if it's pure to pure or you
+guys are all sort of on the same level then that becomes difficult because there's no
+hierarchy where someone can be a total bitch and it's fine
+so maybe some sort of facilitation and coordination
+in that sense so either coordinating times coordinating
+setting up
+like okay this kind of deadline is recommended or like this kind of
+I don't know something like that
+that's pretty good
+okay what would make you trust something like that
+trust on AI
+what would make me trust an AI
+I think first off is if it's a little transparent like if I
+am questioning it I should be able to crack down where the
+info is coming from or why it's telling me something
+because every now and then I might want to check
+2 is I think
+I would be concerned again about like version histories with something that I've produced
+right so are you telling me stuff because of the earlier
+context of what I told you or like are you confusing things
+or are you do you have the most updated
+context so for example that truth sheet that I talked about
+sometimes we had issues with version history right like you don't know
+if something was a previous internal thing that they were still working on
+versus the final clarified output version that's been linked
+and if an AI is linked to all of those documents
+are you pulling from something that has now been scoped out
+or like are you answering a question
+with a merged context
+instead of just with what I need right now
+that's a little bit of a doubt in my mind
+that's nice that's really good
+what should it not do
+hallucinate
+and I mean
+again AI has a little bit of
+a praise
+response and that takes like self-awareness
+on the user's part to identify that
+okay it's telling me things I want to hear or it's making things sound rosy
+like it may not be false but it's making it sound rosier than it is
+and that requires a lot of self-awareness on the user's part to
+come back and say oh wait sorry do not just agree with me or
+you know and if there's some way to not have
+the on the user as like a self-awareness thing because people who are less
+familiar with AI will not have that much awareness that it's just praising them
+or you might start to doubt yourself
+and doubt the AI there like is it just telling me good things
+okay
+that's really good
+I'm getting so much out of this okay
+what do you think people get wrong about how they use AI in innovation
+and this can be something you have mentioned where
+people rely heavily on AI and not verify it
+is there anything else
+I think it's easy when you get stuck to go to AI and try to
+generate ideas but that in itself is a flawed approach
+because innovation is trying to come up with something new
+use case or you know something like
+that and so AI is very good at just
+congregating and compiling aggregating the most
+successful top information so are you really going to get
+something innovative in terms of ideas if you're just compiling it off
+of the most popular stuff that already exists
+so you might be able to
+you might be able to merge some concepts but is AI
+able to merge those concepts like is AI able to
+what kind of example
+can I think of
+like Spotify
+wrapped for example no one would have thought of Spotify wrapped
+because it comes from a very different type of thinking of looking
+at your stats through the year
+is something that's from a completely different industry you have yearly stats for
+things like athletes or you have yearly stats for
+your bank statement on your budgeting app
+those type of things that are generally just a little
+almost on the accounting side of stuff no one would have thought
+AI I don't think would have thought to use a concept that's so outside of the music industry
+and apply it to users in music and make it such an exciting
+thing so
+yeah even though it's a concept that exists you have yearly stats for a lot of things
+but would AI be able to come up with an idea as innovative as
+Spotify wrapped where you get people excited about your music stats
+I don't know I think so

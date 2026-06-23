@@ -21,6 +21,22 @@ A lean, sourced knowledge base on how generative AI works and what it is good an
 - [[kirton-adaption-innovation]]: a primer on Kirton's A-I cognitive-style theory (adaptive versus innovative, style versus level, the KAI inventory).
 - [[genai-on-the-adaption-innovation-spectrum]]: the synthesis. GenAI as a high-level adaptor, how adaptive and innovative people should use it, and human-AI team composition.
 
+## Team dynamics and facilitation (`wiki/`)
+
+- [[team-dynamics]]: the research on what makes teams work (psychological safety, shared purpose, collective intelligence, transactive memory, conflict, development stages), mapped to the interview findings.
+- [[inpd]]: the integrated New Product Development process (Cagan & Vogel), the four-phase framework the project studies, and where teams typically get stuck by phase.
+- [[triz]]: the Theory of Inventive Problem Solving (contradiction-based), used as one questioning mode in the facilitation design.
+- [[genai-as-socratic-facilitator]]: the research case for why an AI questioner can work in innovation teams. Covers the Socratic questioning model, phase-specific facilitation, the groupthink amplification risk, and key design limitations.
+- [[innovation-team-agent-architecture]]: the full system design record. Each agent's role, inputs, outputs, and the reasoning behind every design decision: the LLM-Wiki shared state (4 tiers), 6 core agents plus 2 milestone agents, and the feedback loop.
+- [[agent-prompts]]: the draft system prompt for each agent, bound to its read/write tiers and the design's rules.
+
+## Interviews (`wiki/interviews/`)
+
+- [[interviews-synthesis]]: rolling synthesis of project interviews, with the themes that recur across them.
+- [[interview-template]]: the structure each interview page follows.
+
+Drop a transcript into `raw/interviews/` (or paste it to me) and I will clean it, file it here, and update the synthesis.
+
 ## Sources (`wiki/sources/`)
 
 - [[lee-trott-2023-llm-explained]]: a popular explainer (Understanding AI, 2023), with its cited bibliography and a note on where it has dated since 2023.

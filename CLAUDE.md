@@ -67,6 +67,10 @@ Lint (the user asks for a health check):
 - Find contradictions, stale claims, orphan pages, missing pages, missing cross-references, and gaps a search could fill.
 - Suggest new questions and sources. Append to `log.md`.
 
+## Interviews
+
+Interview transcripts are a kind of source. Raw transcripts live in `raw/interviews/`. For each one, create a page in `wiki/interviews/` from `interview-template.md`: clean the transcript, label the speakers, then write the summary, key takeaways, quotes, and themes. After filing it, update `wiki/interviews/interviews-synthesis.md` and append a line to `log.md`. Anonymize interviewees by default unless told otherwise. I cannot transcribe audio directly; the user supplies the text (or connects a transcription tool such as Fireflies).
+
 ## Conventions for this wiki specifically
 
 - Keep the distinction sharp between GenAI (models that produce new content such as text, images, audio, and code) and discriminative or classical AI (models that classify, predict, rank, or optimize). That distinction is the whole point of the wiki.

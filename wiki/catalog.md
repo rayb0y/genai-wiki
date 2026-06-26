@@ -11,7 +11,7 @@ Auto-generated index of every page, rendered on GitHub (unlike [dashboard](dashb
 needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 `scripts/build_catalog.py` and the `build-catalog` GitHub Action.
 
-26 pages.
+25 pages.
 
 | Page | Type | Updated |
 | --- | --- | --- |
@@ -21,7 +21,6 @@ needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 | [What GenAI Is Good At, and What It Isn't](what-genai-is-good-and-bad-at.md) | comparison | 2026-06-14 |
 | [Team Dynamics: What Makes Teams Work](team-dynamics.md) | concept | 2026-06-14 |
 | [TRIZ: The Theory of Inventive Problem Solving](triz.md) | concept | 2026-06-14 |
-| [System Architecture Diagram](architecture-diagram.md) | reference | 2026-06-14 |
 | [Kirton's Adaption-Innovation (A-I) Theory](kirton-adaption-innovation.md) | concept | 2026-06-14 |
 | [Interviews: Synthesis](interviews/interviews-synthesis.md) | synthesis | 2026-06-14 |
 | [Interviewee 3: Analysis](interviews/interviewee-3-analysis.md) | analysis | 2026-06-14 |

@@ -184,3 +184,79 @@ precision" to drop the cascade mention, and removed cascade from the index summa
 runtime note. The Orchestrator still collects flags from the three monitoring agents and fires one
 question when warranted; it just no longer ranks them by a fixed priority order. Verified: links resolve,
 catalog rebuilt.
+
+## [2026-06-14] edit | Retrospective Agent now runs each phase
+Per Amal: the Retrospective Agent fires at the end of every phase (scoped to the completed phase), and
+again at project completion (across all phases), rather than only at project end. Updated the
+architecture page and the agent prompt, and added a paragraph distinguishing it from the Synthesis Agent
+since they now share the phase boundary: Synthesis compiles the account of the phase, the Retrospective
+draws the lesson. Reworded the "why not continuous" rationale to "why at phase boundaries not mid-phase."
+
+## [2026-06-14] edit | Reverted Retrospective Agent to project-end-only
+Per Amal: reverted the previous change. The Retrospective Agent is back to activating at project
+completion or a major milestone, not per phase, in both the architecture page and the agent prompt.
+
+## [2026-06-14] ingest | System architecture diagram
+Created wiki/architecture-diagram.md: a Mermaid flow view of the multi-agent system (four shared-state
+tiers with read/write permissions on each box, the six core agents, two milestone agents, the team as
+the only human in the loop, and the single intervention path Orchestrator -> Socratic -> team -> Decision
+Logger). Reads omitted from the graph for legibility are stated in the tier boxes and a "how to read it"
+note. Linked from the architecture page and index; catalog rebuilt; links resolve; no em-dashes.
+
+## [2026-06-14] lint | Consistency pass across index, README, CLAUDE, catalog
+Brought everything into order. Added the three interview pages (interviewee-1, its analysis and
+transcript) to the index, which were filed but unlinked there. Rewrote README to cover the full scope:
+the GenAI foundation plus the applied facilitation cluster (Socratic facilitator, agent architecture,
+prompts, diagram, team dynamics, iNPD/TRIZ, interviews), all with GitHub-friendly markdown links.
+Updated CLAUDE.md to note the second applied cluster and to add raw/interviews, wiki/interviews,
+scripts, and .github to the directory layout. Removed the two stray em-dashes (CLAUDE.md title,
+interview template quote line). Verified: catalog rebuilt at 20 pages, all wikilinks resolve, no orphans,
+no em-dashes, README links all point to real files, no OS or workspace cruft tracked.
+
+## [2026-06-14] ingest | Interview 2
+Added the second interview. Saved an anonymized raw transcript to raw/interviews/interviewee-2.txt, wrote
+the cleaned speaker-labeled transcript (wiki/interviews/interviewee-2-transcript.md) and the record page
+(wiki/interviews/interviewee-2.md) matching the interviewee-1 format. Interviewee anonymized as
+"Interviewee 2"; teammates, faculty, and peers replaced with role tags; garbled tool names normalized.
+New themes vs interview 1: authority-versus-peer feedback framing, two distinct trust models (epistemic
+integrity vs authority validation), AI as a refiner gated out of early Identify/Understand work, and
+process rigidity as a stuck-maker. Updated interviews-synthesis (now two interviews, convergences and
+divergences) and the index. Catalog rebuilt; links resolve; no em-dashes; no real names remain.
+
+## [2026-06-14] ingest | Interview 2 deep analysis
+Wrote wiki/interviews/interviewee-2-analysis.md, a standalone reflexive thematic analysis matching the
+interviewee-1-analysis format: eight themes, cross-cutting tensions, salience, design implications, iNPD
+mapping, limitations, and open questions. Emphasis on the contrast with interview 1: two opposing trust
+models (epistemic integrity vs authority validation), authority-versus-peer feedback framing, AI as a
+phase-gated refiner, and process rigidity as a stuck-maker. Linked from interviewee-2 and the index.
+Catalog rebuilt; links resolve; no em-dashes; no real names.
+
+## [2026-06-14] fix | Collaboration Agent is team-facing (per-member private channel)
+Corrected the architecture diagram and text: the Collaboration Agent is a second team-facing path, not
+silent. Each member has their own Collaboration Agent for a private, one-to-one channel (post-session
+notes, concerns, complaints), distinct from the Socratic Agent's single question to the whole team.
+Updated the diagram edges (two-way member channel), its "how to read it" note, the Collaboration Agent
+and Socratic "speaks to" lines on the architecture page, added the member-facing-channel paragraph with
+the confidentiality rule, and updated the Collaboration Agent system prompt. The Socratic Agent remains
+the only agent that addresses the team collectively.
+
+## [2026-06-14] ingest | Interview 3
+Added the third interview. Saved anonymized raw (raw/interviews/interviewee-3.txt), cleaned speaker-labeled
+transcript, record page, and a standalone deep analysis (interviewee-3 + -transcript + -analysis).
+Interviewee anonymized as "Interviewee 3" (he/him); teammates, peers, the interviewer's former project
+partners, and project codenames generalized. This interview reacts directly to the project's design: the
+participant rejects the Collaboration Agent on ownership/team-spirit grounds (sharpest design critique in
+the set), proposes an agree/disagree synthesis across peers instead of a single question, welcomes a
+scoped Socratic questioner as audience rehearsal, insists AI must never give verdicts (only pros and cons),
+and names a research-scoping mechanism for the iNPD fuzzy front-end as the tool he'd build. Updated
+interviews-synthesis to three interviews (now a three-way trust-model split) and the index. Catalog rebuilt;
+links resolve; no em-dashes; no real names.
+
+## [2026-06-14] fix | Socratic answer re-enters through ingestion, not handed to the Decision Logger
+Per Amal: the team's answer to a Socratic question is team-produced material and should follow the single
+input path, not be special-cased to the Decision Logger. Updated the architecture page (Decision Logger
+Source 3, the Socratic "writes nothing" rationale, and the Socratic write line) and the agent prompts
+(Socratic and Decision Logger) so: the Socratic question is logged to the Tier-4 question-and-answer
+history when asked; the answer re-enters on the feedback input path, is logged to that Tier-4 history and
+extracted like any transcript; the Decision Logger reads it from there and does the join. Benefit noted:
+one input path for all team material, and the answer is visible to all detectors, not just the rationale one.

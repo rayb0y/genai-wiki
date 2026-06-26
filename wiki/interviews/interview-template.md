@@ -31,7 +31,7 @@ Copy this page for each interview and replace the bracketed fields. Keep the raw
 
 ## Notable quotes
 
-- "[verbatim quote]" — [speaker], [timestamp if available]
+- "[verbatim quote]", [speaker], [timestamp if available]
 
 ## Themes
 

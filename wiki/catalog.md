@@ -1,7 +1,7 @@
 ---
 title: Catalog
 type: dashboard
-updated: 2026-06-23
+updated: 2026-06-26
 tags: [meta, catalog]
 ---
 
@@ -11,7 +11,7 @@ Auto-generated index of every page, rendered on GitHub (unlike [dashboard](dashb
 needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 `scripts/build_catalog.py` and the `build-catalog` GitHub Action.
 
-19 pages.
+26 pages.
 
 | Page | Type | Updated |
 | --- | --- | --- |
@@ -21,10 +21,17 @@ needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 | [What GenAI Is Good At, and What It Isn't](what-genai-is-good-and-bad-at.md) | comparison | 2026-06-14 |
 | [Team Dynamics: What Makes Teams Work](team-dynamics.md) | concept | 2026-06-14 |
 | [TRIZ: The Theory of Inventive Problem Solving](triz.md) | concept | 2026-06-14 |
+| [System Architecture Diagram](architecture-diagram.md) | reference | 2026-06-14 |
 | [Kirton's Adaption-Innovation (A-I) Theory](kirton-adaption-innovation.md) | concept | 2026-06-14 |
 | [Interviews: Synthesis](interviews/interviews-synthesis.md) | synthesis | 2026-06-14 |
+| [Interviewee 3: Analysis](interviews/interviewee-3-analysis.md) | analysis | 2026-06-14 |
+| [Interviewee 2: Analysis](interviews/interviewee-2-analysis.md) | analysis | 2026-06-14 |
 | [Interviewee 1: Full Transcript](interviews/interviewee-1-transcript.md) | transcript | 2026-06-14 |
 | [Interviewee 1: Analysis](interviews/interviewee-1-analysis.md) | analysis | 2026-06-14 |
+| [Interview: Interviewee 3 (Transcript)](interviews/interviewee-3-transcript.md) | interview-transcript | 2026-06-14 |
+| [Interview: Interviewee 3](interviews/interviewee-3.md) | interview | 2026-06-14 |
+| [Interview: Interviewee 2 (Transcript)](interviews/interviewee-2-transcript.md) | interview-transcript | 2026-06-14 |
+| [Interview: Interviewee 2](interviews/interviewee-2.md) | interview | 2026-06-14 |
 | [Interview: Interviewee 1](interviews/interviewee-1.md) | interview | 2026-06-14 |
 | [Interview Template](interviews/interview-template.md) | template | 2026-06-14 |
 | [How GenAI Works: Storage, Retrieval, Interaction](how-genai-works.md) | concept | 2026-06-14 |

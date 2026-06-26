@@ -1,0 +1,330 @@
+Interview 2: raw transcript (anonymized).
+Interviewee anonymized as "Interviewee 2". Teammate, faculty, and peer names replaced with role tags
+([business teammate], [engineering teammate], [research/design teammate], [faculty], [a peer]). Tool
+names normalized in brackets where the speech-to-text garbled them ([Claude], [Gemini], [Figma Make]).
+Speakers are not separately labeled here; the cleaned, speaker-labeled version is the record page.
+
+Interviewer: Thanks for making time. This summer I'm researching how AI can support innovation teams, or
+just teams in general, whatever team you've been part of, but specifically you've been part of innovation
+teams, capstones. I want to understand how team dynamics and facilitation help, for example, if you've
+seen good facilitation in a team, what that looks like. There are no right answers, I'm just trying to
+understand your real experience. Any questions before we start?
+
+Interviewee 2: I don't have any questions.
+
+Interviewer: Could you tell me about the kind of innovation work or teams you've worked in, what kind of
+projects?
+
+Interviewee 2: Most innovation projects I've worked on have been at CMU, mostly from classes that had very
+vague context. IPD was a little vague even though it had a structure, and the capstone was vague for us in
+terms of the prompt and what we had to do. That was one of the few innovation-heavy projects. Other
+classes had group work but not a lot of innovation, mainly because of team dynamics: a few people were a
+lot more invested than others, and it was difficult to balance how much effort certain people wanted to
+put in versus the actual work. I thought viscom (visual communication) would be innovation-heavy but it
+turned into AI-slop generating. I got good outcomes from it, user journey maps, service blueprints,
+background, but in terms of actually innovating or making something, that fell off and it ended up
+feeling like there was no real use case. Apart from IPD I don't think I've had a class that was really
+innovation-forward. UXR was a great class but not necessarily innovation-forward.
+
+Interviewer: Apart from innovation, and before, what kind of projects and teams have you worked on?
+
+Interviewee 2: From work experience: my first role was as a product designer at a manufacturing company,
+so a lot of what I designed were internal tools, dashboards for order-management systems, internal
+payment-approval tools, to reduce manual work time. The manufacturing industry runs on calling and
+contacts, traditional formats, calling someone or texting them on WhatsApp to get information. We built
+internal tools and dashboards that cut that time. After that I made a complete change and became a UX
+designer at a gaming company, which was cool because I had no gaming experience. It was an existing game
+and you're very restricted to the audience you have, the game was on a decline, practically on a heart
+monitor, so we had to make sure everything was getting more player attention and that players spent more
+money. Even though it was restricted, it helped me think out of the box: the narrower it got, the harder
+it was to think of what to do, which pushed me to think of new features or ways to change the game. I was
+a UX designer there for about a year and a half.
+
+At CMU all the projects have been very different from each other, and so have the teams. I haven't been in
+the same team twice, which is good because I can work with a lot of different people now. One thing I know
+for a fact is that working in a professional company was easier for me, because when you're hired everyone
+is on the same wavelength and you have a common goal. At CMU there's a mismatch between the shared goals
+and the personal goals people have, which makes it harder to work in groups. For the most part it's been
+good. I would have expected more solid outcomes from certain projects, IPD was supposed to be that, but it
+doesn't seem directly related to what I want to do in the future, and it's hard to mold a project that's
+completely unrelated into your story. UXR and tech strategy are two classes that stay in the back of my
+head. UXR really pushed me to step out, do research, and interact with people, and because it was so
+rigorous in a short period it pushed me to do a lot more than I would have. Tech strategy was very
+case-study based and structured so well that I can still trace things back to it, if I see a pricing
+strategy I recognize it almost immediately.
+
+Interviewer: Let's talk about teams. Think about the best team you've ever worked on. What made it work,
+a specific person or anything else?
+
+Interviewee 2: At CMU the team dynamic I've appreciated the most was my capstone team. One thing that
+helped was having a similar goal and understanding where each other stood at the beginning. All of us were
+thrown into an area none of us knew about, and, I'll be open, none of us were interested in the project.
+There was nothing about it that prompted us to work more than we had to. In the first few days we quickly
+realized where we all stood: a baseline of "I don't really care about this project or this company, it's
+unrelated to me," and everyone was on the same page. Establishing that, and how we'd go about it, really
+helped us work together. We were mainly motivated by our grades, which isn't the best, but by the third
+phase we actually got into the project and were invested, partly because there was suddenly so much to do,
+so we spent a lot more time researching, calling, and understanding the problem space. Our teamwork came
+mostly from that shared baseline understanding of where we stood. None of us thought this would go in our
+portfolio. It was demotivating in the first two phases, but by the third phase we were invested and the
+volume of work pushed us through.
+
+Interviewer: How did you build that shared understanding at the beginning?
+
+Interviewee 2: It was our first group meeting. We read about it, had our first meeting with the company,
+and right after we had a casual conversation, "what do you think, where do you stand?", and everyone had
+visible disappointment on their face, like, why do we have this, other companies had better names. On the
+first few client calls, someone had quit the company, the point of contact left, so morale dropped
+further and we were like, where have we been put, this makes no sense, and nothing's working out. That
+shared disappointment in the first conversations established that we were all on the same page.
+
+What else made the team work was really good communication and complementary roles: we had the [business
+teammate] as the business person, the [engineering teammate] doing engineering, and the [research/design
+teammate] and I doing research and a bit of design. We put ourselves into separate boxes almost
+immediately by taking initiative, "I can do this, I can do that", and nobody fought over it because we
+each had established strengths. There wasn't really miscommunication. There were disagreements, but they
+were handled well. Even when I said "I don't think we're doing enough with this," someone would say
+"listen, this isn't high stakes right now, we need to refocus," and we'd adjust. The balance of someone
+wanting to do more and someone else managing expectations was really helpful, and those roles rotated. We
+were also very appreciative of each other, because none of us were doing something we wanted, so every
+time someone pushed a bit more we'd say "thank you so much, this is amazing." We hyped each other up a
+lot, positive affirmation really helped. In our peer evaluations not a single one was bad for any of us,
+it was just good, good, good. In the first round of feedback we all told the [engineering teammate] that
+we wouldn't have understood any of the engineering concepts without them, they kept sketching on the
+board how the generator works and breaking it down, patiently, up until the third phase. It takes a lot
+of patience to keep repeating yourself, so we were all very mindful and grateful that everyone was doing
+things they didn't have to that helped all of us.
+
+Interviewer: What does it look like when a team actually gets stuck? How do people behave, what did it
+feel like, was it recurring?
+
+Interviewee 2: I'll focus on the capstone team since it was the longest. We got stuck on the same thing a
+lot, couldn't move forward. It wasn't even that it was ambiguous, we just couldn't see a path forward,
+which is frustrating, because we were doing all these things and had a solution, but we still had to stick
+to the phases of the process even though at the end of phase 4 the solution we had was basically the same
+as phase 1. It got frustrating to keep going back to the same thing over and over. When we were really
+stuck we were all stuck together, none of us handled it too well, we were all super frustrated, "we don't
+know what to do." We relied a lot on faculty support, but the unhelpful reviews and suggestions pushed us
+to think "okay, we're not getting anywhere with this, but we still need to put a project out."
+
+Interviewer: Let's talk about a few specific stuck moments.
+
+Interviewee 2: The first big one: we had two solutions. We submitted the assignment and got reamed by the
+faculty, everything they had approved the day before suddenly wasn't making sense to them, and we were
+really confused, do they want us to change? That was one of the first all-nighters. We were stuck because
+what we'd pitched wasn't working, one was so close to the finish line but still not working. Staying up,
+we just brainstormed a lot, "maybe these are our potential ideas, they might not be realistic, but let's
+put them down and generate what we have to." The thing I mentioned about each of us taking up parts fell
+into place naturally, "I'll do this section," someone else "I'll do a storyboard for this real quick."
+When we were super stuck, all we tried to do was flesh out as much as we could so something would stick.
+The outcome wasn't great, it was a practice run and an absolute mess, and morale was down, but we stood up
+for each other a lot. In one meeting the first thing the [faculty] said was "who's making all the
+decisions here?", and we said "we're all deciding together." That was because the [engineering teammate]
+and the [business teammate] were the only ones talking, mainly because none of us wanted to speak to the
+faculty, so they took the lead. The [research/design teammate] jumped in and said "hey, just so you know,
+we're really good friends, we're having these discussions, there's no one person making these decisions."
+We all pitched in in different ways.
+
+Interviewer: When you got stuck and decided to flesh it out, did someone intervene, what started it and
+what made it work?
+
+Interviewee 2: It started out of sheer panic, we felt like we were running out of time and needed more
+than we had. None of us stopped each other from trying to come up with something new, we were just trying
+our hardest to come up with some solution that made sense. We were also very focused on faculty approval,
+because we were lost about where we were going and really wanted them on board. We didn't realize we
+didn't actually need that approval as much, we could have just done what we wanted, but we were focused on
+that for a long time. After our practice runs flopped, we had a whole intervention with the faculty in our
+room, going through our first solution that they'd put comments on, and we said "you said x, y, z," and
+they said "you're not doing this project for us, just consider, if you were to put something out, what
+would it be, and what you already have is great." So a whole life's panic shifted into going back to our
+original solution. It started from panic, we brought a lot of ideas, did a lot of things, got feedback
+that we're not doing this for their approval, and reverted to everything we'd had from the beginning.
+
+Interviewer: So the negative feedback, you focused a lot on it and then changed direction. How would you
+deal with negative feedback if it wasn't from faculty, if it came from a random person in the cohort, or
+an AI saying "these are the holes, these are the gaps I see," from somewhere that isn't a position of
+power?
+
+Interviewee 2: I think we'd be more open to constructive feedback. If you or anyone in the cohort said
+"hey, maybe consider this," it's also the way it's phrased that matters a lot. We got a lot of
+constructive feedback. What threw us off was that something had been approved and then the feedback was
+completely different, that threw us way off. Throughout the process we got a lot of cohort feedback and we
+were more open and appreciative of it because it gave us more ideas and didn't feel like a set direction,
+which it does when it comes from faculty or a position of power. If faculty say "you should consider
+this," we'd only consider that. If you or [a peer] said something, even three opinions, we'd think "oh,
+this makes sense, we don't have to do the second part but we can focus on the first." It feels very
+concrete when it comes from faculty, and more constructive when it's from peers or any other platform
+assessing what I'm doing.
+
+Interviewer: How did you keep track of your research, decisions, and reasoning, the memory of the team,
+your shared knowledge?
+
+Interviewee 2: We just had a common Google Doc, a Figma, and a WhatsApp chat. Any new information went on
+the Google Doc and got discussed in a team meeting if it was new or relevant. We had set documents for
+each phase, phase one doc with all the research, phase two doc, and so on, working on the same sheets, a
+common Figma, common doc, and a WhatsApp chat.
+
+Interviewer: If someone new joined your team in the middle, how would they get up to speed?
+
+Interviewee 2: They would have a very difficult time.
+
+Interviewer: And at work?
+
+Interviewee 2: At work it was simple. We had shared documents, a Google-Doc-like internal company
+platform. Since it was a gaming company we had a lot of design specs, art specs, product specs, dev tools,
+everything, all placed in the same table format, and anyone new would go through them in order. First the
+product spec: what the feature does, how it works, the aim, the product goals, design goals, what we want
+revenue to look like after release, and the mechanics of the feature. Then the design spec: I'd have a
+full user flow on a FigJam, a user persona, exactly what's being changed, and my reasoning. Then the
+actual design document, all my Figma screens. Then the art document, all the art inspired by the Figma
+docs. A new person would go through it depending on where they stand: a developer only needs the final
+design and the product goals, an artist doesn't need the product context and works straight off the
+design flows. It was consolidated really well in the order you'd read it. My handoff document had
+everything structured: use cases, access flows, unique screens, edge cases, everything we'd have to
+consider. Once art was approved, the final UX designs sat right next to the screens with all the dev
+changes, one shared big document, so someone new could pick up almost immediately.
+
+Interviewer: If your team disagreed, how did you resolve it?
+
+Interviewee 2: We gave each other a little space, and there was never a moment where another person didn't
+pitch in. As an example: when we were solutioning what the final product would look like, I had a vision
+of going above and beyond, "maybe we should do this and this," and the [engineering teammate] said "this
+project doesn't even matter, we don't care about it, they can do whatever." That was disappointing,
+because I get it, I'm not invested either, but I'd want my outcome to be something nicer, I cared about
+that even if she didn't. In those moments the discussion never went too far, we'd stop after disagreeing
+and take a break from it, and the other members would mediate, validating what I was saying and what she
+was saying and finding a middle ground. In this case the [research/design teammate] and the [business
+teammate] said "we could do the first part of what you're saying, the final doesn't have to be so big,
+maybe it's a small change, you don't have to focus on that many visuals, but we still have to make it look
+good to a certain extent." It felt validating for both of us, and I said "I can work with that." There
+needs to be an openness to change, which there was, so it was easily resolved. Stepping away, having
+someone step in, and both of us being open to feedback really helped.
+
+Interviewer: Were there disagreements that never got resolved?
+
+Interviewee 2: No, because everything happened in the moment, it got sorted and we moved on.
+
+Interviewer: Where do you think the real thinking happened, in the meetings, or other places, alone, or
+two of you discussing and suddenly getting an idea?
+
+Interviewee 2: Definitely in the in-person meetings. We did not have any real thinking in our online group
+calls, because the aim of the calls was just to discuss and decide what needed to be sorted. Sitting in
+person is when you could bounce ideas off each other. If I said something everyone would chime in, because
+some people are generally introverted and it's hard to draw them out online, but sitting together you can
+say "okay, what do you think, tell us," because you see their face and how they react. Much easier in
+person.
+
+Interviewer: Was everyone involved in those discussions, or were some people more influential in side
+conversations rather than the formal ones?
+
+Interviewee 2: I don't think we had anyone overly influential. When the faculty came, the [engineering
+teammate] and the [business teammate] would speak because they had the most context, but they were
+speaking for the group, saying what we'd all discussed. There weren't side conversations with two people
+taking a lead separately, all the discussions happened together. That was partly because we did not think
+about our capstone beyond our hours in the classroom, we didn't go home thinking about it or work on it at
+home, everything happened within the classroom in that period.
+
+Interviewer: Let's talk about before AI. How long did you work before AI was generally used, and what did
+your work look like?
+
+Interviewee 2: I started using AI at CMU, that was my first actual use. I wasn't using AI at work at all.
+Maybe the product team used it to generate specs a little, but in design there was no AI usage. The first
+time I used AI was at CMU and I personally don't like it because of how unstructured it is and the kind of
+outcomes you get. Design work and AI work don't mesh well together for me. A creative process needs to
+have, the whole point of artistic expressiveness is that it leads back to you and what you're doing,
+that's the point of being designers or making art, you don't do it for profit, sure if it's profitable
+that's great, but you do it out of your understanding of the things you like and what influences you. AI
+influencing the artistic process is not something I appreciate. How much I dislike it increased in the
+visual communication class because it was so forced, not every aspect of your design process has to use
+AI. It really annoyed me that they wanted the research to come out of AI, why would our research be fully
+AI, I don't understand that. Every outcome we were building toward was a vibe-coded app on [Figma Make],
+and it was subpar at best. If we had taken that time and learned actual visual communication skills,
+even one week on how good typography works, that would have made more sense for a class named visual
+communication. You don't do art or design for it to look copy-pasted like everything else, everything
+just looked the same. So I don't like it at all.
+
+Interviewer: Do you use AI right now for anything?
+
+Interviewee 2: I do, but never to actually design anything. I'm in an RA position on something completely
+new that I don't know about, so I use [Claude] to find more sources for me, or to ask what something
+means when I have an actual document, like "what is this kind of document, what does this mean, what's the
+importance of this legal thing," that's when I go to [Claude]. I've been trying to use it as little as I
+can and understand things from my end. One time I tried using [Claude] to synthesize research, I gave it
+three documents and said "synthesize this," and the result was the most surface-level thing, everything
+that matched across the documents, no nuance, it wasn't picking up on the things I wanted it to pick up
+on, it felt redundant. So I left it, sat through it myself, it took an hour, but now I know those three
+documents like the back of my hand and got the insights I actually wanted. Earlier at CMU I used AI for a
+lot of copy-pasting, we had weekly readings and I didn't really do them because it felt like, since they
+know we have AI, they give us more work. If you gave me one reading a week I'd actually read it and write
+a small reflection for a class discussion, but if you want a student to do three things at once while
+working on something else it's really difficult. Coming to CMU, the workload has increased compared to
+cohorts two years ago, because they know we use AI and do things more quickly. But the point of a
+master's program is that we develop better thinking skills for each class. Even the AI-and-IPD class, I
+had so many expectations, and the AI aspect was just copy-pasting things into Google Colab, when he could
+have taught us how smaller things work, what certain functions mean, what actual design systems look like.
+So much potential wasted into "I can do this, let's make AI do it."
+
+Interviewer: Is there anything AI has done that has genuinely changed how a team works for the better, or
+how someone works?
+
+Interviewee 2: The personal use case is the most helpful, it finds me sources I'd never have looked at or
+realized, I wouldn't go through pages on Google. Finding specific information is really good. While
+working, the same thing, finding specific sources to look into. I don't think I have anything else, not
+that I've thought about.
+
+Interviewer: If you could access an AI tool that helps a team not get stuck, or get unstuck, in the least
+intrusive, least human-replacing way, can AI actually do that?
+
+Interviewee 2: I feel like it can. A lot of it is doing a work analysis. Like the feedback that comes from
+instructors versus from peers, the way it's formatted and said really matters. If an agent or chatbot is
+analyzing the work we've done and the only thing it's saying is "have you considered xyz, what makes sense
+and what doesn't," that helps. In our final presentation, [a peer] ran our full presentation through
+[Claude] and asked "does this story structure make sense, does it work for telling a story," and we
+thought "maybe this section can go up and we can introduce a video later." It helps you consolidate your
+thoughts and it's great for reviewing. The way you ask questions matters. The input from different tools
+was different, I was running [Claude] and someone else was running [Gemini] doing the same thing, and the
+responses were very different, we took that into account too. Mainly it's about the tone, having
+"what you can do better," and if it's just assessing your work it doesn't feel intrusive. You should be
+able to opt in, "here's a tool if you want to assess what you've done so far and want feedback in the form
+of what the faculty would say," and you can implement that. But the work before that should still happen
+from us, it should be a more refining thing.
+
+Interviewer: When in the process should no AI be in the room at all?
+
+Interviewee 2: The ideation with AI was pretty good, we started from based ideas and expanded our
+understanding. The big no-no is the initial stages of understanding what we actually want the problem to
+be, because we tried and it gave us everything generic that wasn't working with what the faculty wanted.
+The research and figuring out the scope of the project, big no to AI. But once you figure out what you're
+actually doing, using it to ideate, analyze, or give you more suggestions works.
+
+Interviewer: You've used innovation frameworks at CMU, design thinking, lean, and so on. How has AI
+changed those frameworks, though I don't think you have experience with them before AI?
+
+Interviewee 2: No, I don't, so nothing.
+
+Interviewer: If you could design an AI tool for innovation teams, what would it do, you talked about
+verification, summarizing, and giving ideas. What would make you trust something like that?
+
+Interviewee 2: If the feedback and the pieces it recommended were received positively by a faculty. One
+way to build confidence is, say we have a final presentation and want it analyzed to see if it works. If I
+upload it, and I had faculty feedback plus changes suggested by the system, and once I made the changes
+the faculty visibly approved the direction, I'd trust it more, because I'd know it's the right direction.
+I like someone in authority to say "that makes sense," because I might not know everything and could just
+pick up whatever is being said, and those changes work because they're validated by someone else. It's
+difficult, and I don't know if I'm thinking this way because of how focused we were on what the faculty
+wanted in the IPD project, but if something assessing our work gave us feedback that aligned with what the
+faculty actually wanted, that would be positive and we'd keep using it. At work that onus would go to the
+manager, there are always people in the loop assessing what you're doing. The first time I show my manager
+something, she says "have you considered x, y, z," because she knows more than I do. Next time I've learned
+to think of x and y, but maybe I don't know what z is, and if something else were helping me think of that,
+the manager is still checking it, it's just confirmation that you're going in the right direction and
+didn't miss anything. You learn from what you're doing anyway, but having that confirmation helps.
+
+Interviewer: Final question: what should AI not do in a team?
+
+Interviewee 2: This is unrelated to group work, but when I put up certain documents it paraphrases them,
+even if I say make no changes. I was trying to transcribe an image and said "do not change what's written,
+just transcribe image to text," and what I got was everything paraphrased from its own understanding. AI
+can't do that, it literally cannot write it word for word, and I wouldn't have known that, so there should
+be some awareness of AI's limitations. I didn't know, it felt like a waste of time, so I just googled an
+image-to-text tool, put the image in, and it did exactly what I wanted.

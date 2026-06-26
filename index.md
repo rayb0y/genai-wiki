@@ -29,10 +29,20 @@ A lean, sourced knowledge base on how generative AI works and what it is good an
 - [[genai-as-socratic-facilitator]]: the research case for why an AI questioner can work in innovation teams. Covers the Socratic questioning model, phase-specific facilitation, the groupthink amplification risk, and key design limitations.
 - [[innovation-team-agent-architecture]]: the full system design record. Each agent's role, inputs, outputs, and the reasoning behind every design decision: the LLM-Wiki shared state (4 tiers), 6 core agents plus 2 milestone agents, and the feedback loop.
 - [[agent-prompts]]: the draft system prompt for each agent, bound to its read/write tiers and the design's rules.
+- [[architecture-diagram]]: a Mermaid flow view of the whole system (tiers, agents, the single intervention path).
 
 ## Interviews (`wiki/interviews/`)
 
 - [[interviews-synthesis]]: rolling synthesis of project interviews, with the themes that recur across them.
+- [[interviewee-1]]: the first interview, a structured summary with key takeaways, quotes, and themes.
+- [[interviewee-1-analysis]]: a deeper people-researcher analysis of that interview.
+- [[interviewee-1-transcript]]: the full cleaned, speaker-labeled transcript.
+- [[interviewee-2]]: the second interview, a designer on a CMU capstone, on aligned expectations, authority-versus-peer feedback, and AI as a refiner.
+- [[interviewee-2-analysis]]: a deeper people-researcher analysis of that interview.
+- [[interviewee-2-transcript]]: the full cleaned, speaker-labeled transcript.
+- [[interviewee-3]]: the third interview, an engineer-minded student on conflict and ownership, who challenges the Collaboration Agent and wants a scoping mechanism.
+- [[interviewee-3-analysis]]: a deeper people-researcher analysis of that interview.
+- [[interviewee-3-transcript]]: the full cleaned, speaker-labeled transcript.
 - [[interview-template]]: the structure each interview page follows.
 
 Drop a transcript into `raw/interviews/` (or paste it to me) and I will clean it, file it here, and update the synthesis.

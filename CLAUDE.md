@@ -1,6 +1,6 @@
-# GenAI Knowledge Base — Wiki Schema
+# GenAI Knowledge Base: Wiki Schema
 
-This repo is an LLM-maintained wiki about generative AI (GenAI): how it works, what it is and is not good at, its alternatives, and how AI works when it is not generative. The LLM owns the `wiki/` layer entirely. The human (Amal) curates sources, asks questions, and reads. The LLM does the writing, cross-referencing, and bookkeeping.
+This repo is an LLM-maintained wiki about generative AI (GenAI): how it works, what it is and is not good at, its alternatives, and how AI works when it is not generative. It has since grown a second, applied cluster: a research project on whether an AI Socratic questioner can help stuck innovation teams (the facilitation, iNPD/TRIZ, team-dynamics, agent-architecture, and interview pages). The GenAI mechanics remain the foundation that the applied work builds on. The LLM owns the `wiki/` layer entirely. The human (Amal) curates sources, asks questions, and reads. The LLM does the writing, cross-referencing, and bookkeeping.
 
 ## Domain and audience
 
@@ -21,9 +21,13 @@ GenAI-Wiki/
   index.md           # catalog of every page (read first when answering)
   log.md             # append-only record of ingests, queries, and lints
   raw/               # immutable source documents the user drops in (LLM never edits)
+    interviews/      # raw interview transcripts
   wiki/
-    *.md             # core topic pages, kept deliberately few (lean over comprehensive)
+    *.md             # topic pages: the GenAI core plus the applied facilitation cluster
     sources/         # one summary page per ingested source, with full citation
+    interviews/      # one page per interview, plus the rolling synthesis and template
+  scripts/           # build_catalog.py regenerates wiki/catalog.md
+  .github/           # Action that rebuilds the catalog on each push
 ```
 
 Keep the wiki lean. Prefer a few dense, well-linked pages over many thin ones. Consolidate before adding a new page, and only split a page out when it truly stands alone. The current core is `how-genai-works.md` (Storage, Retrieval, Interaction), `what-genai-is-good-and-bad-at.md`, and `reading-list.md`.

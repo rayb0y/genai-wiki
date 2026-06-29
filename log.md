@@ -260,3 +260,127 @@ Source 3, the Socratic "writes nothing" rationale, and the Socratic write line) 
 history when asked; the answer re-enters on the feedback input path, is logged to that Tier-4 history and
 extracted like any transcript; the Decision Logger reads it from there and does the join. Benefit noted:
 one input path for all team material, and the answer is visible to all detectors, not just the rationale one.
+
+## [2026-06-14] ingest | Proof of Work attribution research
+Researched whether contribution and idea-origin can be attributed from transcripts and artifacts, and
+wrote wiki/proof-of-work-attribution.md. Findings: identifiability fights social loafing (Latane/Ringelmann),
+so attribution is worth doing; "who is responsible" should resolve to contribution types (CRediT) and a role
+map (Belbin + social-network role inference), not a single author; transcripts give reliable participation
+and lower-confidence proposal/decision attribution (AMI decision detection); artifacts give edit provenance
+only where an edit history exists (DocuViz, version control), and finished jointly-named files lose it;
+distributed cognition (Hutchins) makes single-source idea ownership a category error, so record genealogy
+not ownership; attribution is sensitive and must be a team-confirmed map, not a covert score (ties to
+psychological safety in team-dynamics and Interviewee 3's ownership/no-verdicts stance). Linked from the
+Proof of Work section of the architecture page and the index. Catalog rebuilt; links resolve; no em-dashes;
+12 sources cited inline.
+
+## [2026-06-14] update | Proof of Work: added the "done right" role-and-contribution map
+Added a section to proof-of-work-attribution.md describing the defensible target: separate role (Belbin,
+emergent + confirmed) from contribution (CRediT type + receipt + lead/equal/supporting); show reliability
+per source; record idea-origin as genealogy not a slice; per-member record = confirmed role line +
+evidence-linked contribution log + idea genealogy + narrative (no ring, no %, no time); member-owned and
+evidence-linked; a team-level role-coverage map (gap-finding, not ranking) is fine, side-by-side personal
+comparison is the line not to cross. Built a clean card mockup of the member record done the honest way.
+
+## [2026-06-14] update | Grounded the team role-coverage claim in evidence (honest about Belbin)
+Per Amal, pressure-tested the role-coverage idea against research. Added a "How well is role coverage
+actually supported?" section: Belbin's Self-Perception Inventory is psychometrically weak (Furnham, Steele
+& Pendleton 1993; may reduce to Big Five), and the role-balance-predicts-performance claim is mixed
+(Prichard & Stanton 1999 support diversity-over-homogeneity; Partington & Harris 1999 find no link). So
+coverage is a heuristic, not a validated score. Reframed it on sturdier ground: Benne & Sheats (1948)
+task-vs-maintenance functional roles for coarse gap-flagging, and role clarity/ambiguity (Beauchamp et al.
+2002; Bray & Brawley 2002) as the better-evidenced construct (does each member have a clear, accepted
+role) over role-type balance. Added 7 sources. Catalog rebuilt; links resolve; no em-dashes.
+
+## [2026-06-14] ingest | Faculty interview protocol
+Created wiki/interviews/faculty-interview-protocol.md: a semi-structured guide for III capstone faculty,
+a distinct population from the student interviews. Carries over the open questions from interviews 1-3 and
+adds faculty-only questions: cross-team base rates, the authority side of feedback (why it reverses, whether
+they know it lands as binding), how individual contribution is actually assessed in practice (the
+proof-of-work reality), expert facilitation practice, role clarity vs coverage, scoping the front end, AI in
+student work, and a stakeholder reaction to the design (pitched last to avoid bias). Includes interviewing
+principles and an "open questions this is meant to resolve" list. Linked from index and synthesis (with a
+note to compare faculty vs student views, not pool them). Catalog rebuilt; links resolve; no em-dashes.
+
+## [2026-06-14] ingest | Faculty protocol: full + short versions
+Split the faculty guide into two documents. Added per-section timing and must-ask flags to the full guide
+(~50-60 min; must-ask = stuckness, feedback/authority, individual contribution, design reaction). Created
+faculty-interview-protocol-short.md, a 25-minute core run-sheet that front-loads the four must-ask areas
+(individual contribution first, then feedback/authority, stuck patterns, design reaction), plus a 12-15 min
+express fallback of four questions, and a note on what it drops and why. Linked both from index and synthesis.
+Catalog rebuilt; links resolve; no em-dashes.
+
+## [2026-06-14] ingest | Complaints and conflict in teams (Collaboration research base)
+Slow, verified research pass on what the system should do when a member complains about a person or the
+project. Wrote wiki/complaints-and-conflict-in-teams.md. Verified anchors: a complaint is voice, the
+alternatives are exit/silence (Hirschman 1970; EVLN); being heard has standalone value if the process is
+fair (Thibaut & Walker 1975; Lind et al. 1990 group-value; Leventhal 1980 rules; Colquitt et al. 2001
+four-factor meta-analysis); route by target, project complaint = task conflict -> constructive controversy
+in a cooperative frame (Johnson & Johnson 2009), person complaint = relationship conflict, reliably harmful
+(De Dreu & Weingart 2003, which also warns even task conflict is negative on average, so don't naively
+amplify); the central risk is triangulation (Bowen) where a third party that absorbs tension lets people
+avoid the accountable conversation, naming Interviewee 3's objection; the system should take the lightest
+third-party role, facilitator not arbiter (Karambayya & Brett 1989), and support integrating not smoothing
+(Rahim 2002). Every source checked in search; authors/years asserted only where confirmed. Linked from the
+architecture Collaboration section and the index. Catalog rebuilt; links resolve; no em-dashes; 12 sources.
+
+## [2026-06-14] update | Two collaboration mechanisms (detection before / complaint after) + after-flows
+Added a "Two mechanisms" section to complaints-and-conflict-in-teams.md per Amal. Detection-before-complaint
+(ambient, no one voiced, most constrained) vs complaint-handling-after (member chose voice, owed a fair
+hearing), each with the project-vs-person axis = a 2x2. After-flows: project axis converges (both → one
+de-identified team question, constructive controversy); person axis diverges (detection → invite the member
+to voice or emit a contraindication, never a team output; complaint → extract task issue + surface that,
+keep person part private, scaffold the direct conversation and hand it back, detriangulation). They chain:
+detection→invite voice→(if accepted)→complaint. Stated the lane's four legal outputs as a closed set and
+the three things it never produces (name a person, a verdict, an imposed resolution). Built a flow diagram.
+No em-dashes.
+
+## [2026-06-14] update | Person complaints: no de-identified question; contribution record stays passive
+Per Amal + Interviewee 3: a person complaint must not trigger a de-identified question, because even a
+neutral question removes the accountability that makes the direct conversation matter. Revised the routing,
+the "what the system should do," and the two-mechanisms after-flow so a person complaint produces only
+acknowledge + scaffold-the-direct-conversation; any real task issue under it is left to the detection layer
+to flag on its own merits, not triggered by the complaint. Added a section grounding the contribution
+record's role: it defuses respect/misperception complaints (egocentric bias, Ross & Sicoly 1979; echoed by
+Interviewee 3 on the "invisible" member and Interviewee 2 on recognizing the engineer), but only passively,
+because it is already visible to everyone. The AI must NOT point a complainer at the teammate's record,
+which would be rebutting/taking a side/a verdict. Added Ross & Sicoly 1979 source. Catalog rebuilt; links
+resolve; no em-dashes.
+
+## [2026-06-14] update | Contribution record = separate always-on on-screen link, not a collab action
+Clarified per Amal: the contribution record is owned by the Contribution aggregator and surfaced as a standing on-screen link to current team info, a separate lane from Collaboration. The Collaboration AI never points a complainer to it; the member opens it themselves. Re-rendered the after-flow diagram: removed the person-complaint to de-identified-question arrow (person complaint = acknowledge + scaffold only) and showed the contribution record as a detached always-on band, not a step in the flow.
+
+## [2026-06-14] update | Project complaints scaffold too; de-identified question is detection-only
+Per Amal: a raised complaint (project or person) is scaffolded so the member owns and raises it, never laundered into a de-identified question. The de-identified question is now exclusively a DETECTION output (system noticed a task gap, no complainer). Cleaner principle: the system de-identifies and surfaces only what it detected; when a human voices a complaint it helps the human own it. The de-identified path remains the safety net because detection catches real task gaps independently. Updated routing, the procedure, the two-mechanisms after-flow, the trigger-not-target framing, and legal outputs 1 and 3. Re-rendered the diagram.
+
+## [2026-06-14] update | Detection split by a discriminator (whose voice is at stake)
+Per Amal: after detection, the choice between inviting voice and a team Socratic question is not project-vs-person, it is whether a specific person?s voice/contribution is at stake. Collective gap with no owner (false consensus, undefended decision, premature convergence) -> de-identified Socratic question. A specific member?s suppressed/ignored position -> invite THAT member to voice it (anonymizing their point fails them twice: strips authorship, and being-heard needs attribution). Interpersonal tension only -> contraindication. Invite can be declined (voice is their choice); substance not buried because the task detectors flag a real gap independently. Updated the after-detection flow, the 2x2 framing, and legal output 2. Re-rendered the diagram.
+
+## [2026-06-14] ingest | iNPD/process resources: capstone process + methods toolkit
+Ingested Amal's iNPD resource batch (CMU III IPD Capstone L1/L2 decks, PESTLE, Adaptive Path experience
+mapping, service blueprint examples, pretotyping, Erika Hall design-research essays, Double Diamond).
+Updated inpd.md: reflected the actual CMU III capstone (4 phases, sponsored, Phase 1 = Identifying
+opportunities in context, the "why" gate, Double Diamond, design problem statements), and resolved the
+PESTLE/SET tension authoritatively from the L2 deck (program uses PESTLE as the Phase 1 main method with
+SET as the minimum; PESTLE = SET + Political/Legal/Environmental). Noted faculty (Ellen, Brandon Schauer)
+and that faculty encourage NotebookLM for the scan with source-validation. Created
+innovation-process-methods.md as the growing front-end toolkit: PESTLE, design research (Hall: ask the
+right question first; research questions != interview questions, which feeds the faculty protocol),
+experience mapping, service blueprint, pretotyping (Savoia), Double Diamond, with how-they-map-to-phases.
+All sources fetched/verified; did NOT copy the CMU course PDFs into the public repo (course IP). Linked
+from inpd and index. Catalog rebuilt; links resolve; no em-dashes.
+
+## [2026-06-14] ingest | Full capstone (4 phases + faculty feedback), anonymized
+Ingested Amal's full IPD Capstone (assignments, submissions, teaching-team feedback, incl. final report and
+Phase 4 presentation). Created capstone-process.md: the four phases as actually run (checkpoints, methods,
+deliverables) plus a distilled set of the recurring faculty redirections (people-not-business, opportunities-
+not-solutions, de-feature criteria, values-not-criteria, take-the-team-out-of-the-storytelling, outlines-not-
+bullets, know-the-why, keep-biases-in-check, research-questions-are-not-interview-questions, control-info-flow),
+which is a corpus of real facilitation moves for the Socratic design. Added value/business methods to
+innovation-process-methods (Lean VOA, early product criteria, experience blueprints, build-a-thon/validation,
+TAM/SAM/SOM, Lean Business Model Canvas, archetypes). Added the team-contract framework to team-dynamics
+(Haas & Mortensen 2016 four components; mutual accountability; Sunstein & Hastie 2014 shared-info bias).
+Fixed a prior error: capstone faculty are not "Brandon Schauer" (Adaptive Path author); anonymized faculty
+names to "the teaching team." All sponsor/product/project/segment/individual identifiers removed; CMU course
+materials and team submissions NOT committed to the public repo. Linked from index/inpd. Catalog rebuilt;
+links resolve; no em-dashes; no leftover identifiers.

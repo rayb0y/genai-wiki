@@ -53,6 +53,10 @@ New from Interviewee 3:
 
 The themes above connect to established research in [[team-dynamics]] (psychological safety, shared purpose, collective intelligence, transactive memory, conflict types). For a synthesis of how GenAI can act on these dynamics as a Socratic questioner in innovation work, see [[genai-as-socratic-facilitator]].
 
+## Protocols
+
+- [[faculty-interview-protocol]] (full, 50 to 60 min) and [[faculty-interview-protocol-short]] (25-min core): the guide for the next population, III capstone faculty. Faculty see many teams rather than one, are the authority behind the binding-feedback dynamic, and own the individual-contribution assessment problem, so their interviews should be compared against the student view rather than pooled with it.
+
 ## How to add one
 
 Give me a transcript: paste it in, or drop the text into `raw/interviews/`. I will clean it, label the speakers, fill in a copy of [[interview-template]], add it to the list above, update the themes, and append a line to `log.md`. Interviewees are anonymized by default unless you tell me otherwise.

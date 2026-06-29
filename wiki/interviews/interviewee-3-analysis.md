@@ -27,7 +27,7 @@ The codes that recurred, grouped into the themes below:
 - Conflict and discussion: conflict of opinion as the start of discussion, stress-testing, heated-but-respectful, stepping back, supporting points.
 - Ownership and accountability: contributing meaningfully, knowing where everyone stands, becoming invisible, the empty claim, taking emotion out and talking it through.
 - Anti-mediation: "let it go" as harmful, confronting the mediator, mediation that hinders progress.
-- The design reaction: Collaboration Agent takes team spirit away, running from accountability, short-term help versus long-term harm, the agree/disagree synthesis.
+- The design reaction: Collaboration Agent in current form takes team spirit away, running from accountability, short-term help versus long-term harm, the agree/disagree synthesis.
 - AI sycophancy and control: brutal-critique prompt, numbers and edge cases, no verdicts, plain pros and cons, unbiased interview analogy.
 - AI limits: lacks your context, pushes the already-done, fails at novelty, reason-from-logic workaround.
 - AI uses: laborious work, drafting, diagrams, the pawned-off design section, design thinking as inputs-not-outputs.

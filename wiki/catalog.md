@@ -1,7 +1,7 @@
 ---
 title: Catalog
 type: dashboard
-updated: 2026-06-26
+updated: 2026-06-29
 tags: [meta, catalog]
 ---
 
@@ -11,7 +11,7 @@ Auto-generated index of every page, rendered on GitHub (unlike [dashboard](dashb
 needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 `scripts/build_catalog.py` and the `build-catalog` GitHub Action.
 
-25 pages.
+32 pages.
 
 | Page | Type | Updated |
 | --- | --- | --- |
@@ -19,8 +19,11 @@ needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 | [GenAI as a Socratic Facilitator in Innovation Teams](genai-as-socratic-facilitator.md) | concept | 2026-06-22 |
 | [iNPD: Integrated New Product Development](inpd.md) | concept | 2026-06-14 |
 | [What GenAI Is Good At, and What It Isn't](what-genai-is-good-and-bad-at.md) | comparison | 2026-06-14 |
+| [The IPD Capstone process, as run](capstone-process.md) | concept | 2026-06-14 |
 | [Team Dynamics: What Makes Teams Work](team-dynamics.md) | concept | 2026-06-14 |
 | [TRIZ: The Theory of Inventive Problem Solving](triz.md) | concept | 2026-06-14 |
+| [System Architecture Diagram](architecture-diagram.md) | reference | 2026-06-14 |
+| [Proof of Work: attributing contribution in a team](proof-of-work-attribution.md) | concept | 2026-06-14 |
 | [Kirton's Adaption-Innovation (A-I) Theory](kirton-adaption-innovation.md) | concept | 2026-06-14 |
 | [Interviews: Synthesis](interviews/interviews-synthesis.md) | synthesis | 2026-06-14 |
 | [Interviewee 3: Analysis](interviews/interviewee-3-analysis.md) | analysis | 2026-06-14 |
@@ -33,8 +36,12 @@ needs the Obsidian Dataview plugin). Do not edit by hand; it is rebuilt by
 | [Interview: Interviewee 2](interviews/interviewee-2.md) | interview | 2026-06-14 |
 | [Interview: Interviewee 1](interviews/interviewee-1.md) | interview | 2026-06-14 |
 | [Interview Template](interviews/interview-template.md) | template | 2026-06-14 |
+| [Interview Protocol: III Capstone Faculty](interviews/faculty-interview-protocol.md) | protocol | 2026-06-14 |
+| [Interview Protocol (Short, 25 min): III Capstone Faculty](interviews/faculty-interview-protocol-short.md) | protocol | 2026-06-14 |
+| [Innovation process methods (front-end toolkit)](innovation-process-methods.md) | concept | 2026-06-14 |
 | [How GenAI Works: Storage, Retrieval, Interaction](how-genai-works.md) | concept | 2026-06-14 |
 | [Getting the Most Out of LLMs: Retrieval, Storage, Coherence](getting-the-most-out-of-llms.md) | concept | 2026-06-14 |
+| [Complaints and conflict in teams](complaints-and-conflict-in-teams.md) | concept | 2026-06-14 |
 | [Agent Prompts for the Innovation-Team System](agent-prompts.md) | reference | 2026-06-14 |
 | [Source: Lee & Trott (2023), Large Language Models, Explained with a Minimum of Math and Jargon](sources/lee-trott-2023-llm-explained.md) | source | 2026-06-08 |
 | [Reading List: The Key Papers](reading-list.md) | concept | 2026-06-08 |
